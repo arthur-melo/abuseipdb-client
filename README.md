@@ -140,7 +140,7 @@ if (result) {
 console.log(headers);
 ```
 
-A more detailed explanation can be found at: [examples/abstraction.ts](https://github.com/arthur-melo/abuseipdb-client/examples/abstraction.ts).
+A more detailed explanation can be found at: [examples/abstraction.ts](https://github.com/arthur-melo/abuseipdb-client/tree/main/examples/abstraction.ts).
 
 ## API
 
@@ -148,7 +148,7 @@ See [API Docs](https://arthur-melo.github.io/abuseipdb-client/)
 
 ## Examples
 
-See [Examples](https://github.com/arthur-melo/abuseipdb-client/examples/)
+See [Examples](https://github.com/arthur-melo/abuseipdb-client/tree/main/examples)
 
 ## Running tests
 
