@@ -1,6 +1,6 @@
 {
   "name": "abuseipdb-client",
-  "version": "0.1.1",
+  "version": "0.0.0-development",
   "private": false,
   "description": "AbuseIPDB Node.js API client.",
   "author": "Arthur Melo <contact@arthurmelo.com>",
@@ -34,7 +34,8 @@
     "lint": "prettier -w '{lib,test}/**/*.ts' && eslint --fix '{lib,test}/**/*.ts'",
     "docs": "typedoc",
     "prepublishOnly": "npm run test && npm run build",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "fetch-blob": "^3.2.0",
@@ -71,6 +72,7 @@
     "rollup-plugin-bundle-size": "^1.0.3",
     "rollup-plugin-dts": "^5.0.0",
     "rollup-plugin-typescript2": "^0.34.1",
+    "semantic-release": "^19.0.5",
     "ts-jest": "^29.0.3",
     "ts-node": "^10.9.1",
     "tslib": "^2.4.1",
@@ -80,7 +82,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arthur-melo/abuseipdb-client.git"
+    "url": "https://github.com/arthur-melo/abuseipdb-client.git"
   },
   "bugs": {
     "url": "https://github.com/arthur-melo/abuseipdb-client/issues"
