@@ -8,6 +8,7 @@
 </h1>
 
 ![License](https://img.shields.io/github/license/arthur-melo/abuseipdb-client)
+![Codecov](https://img.shields.io/codecov/c/github/arthur-melo/abuseipdb-client)
 
 Unofficial [AbuseIPDB](https://www.abuseipdb.com/) Node.js client library.
 
