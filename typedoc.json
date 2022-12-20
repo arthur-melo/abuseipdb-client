@@ -1,0 +1,24 @@
+{
+  "name": "abuseipdb-client",
+  "entryPoints": ["./lib/index.ts"],
+  "out": "./docs",
+  "media": "./public",
+  "includeVersion": true,
+  "visibilityFilters": {
+    "protected": false,
+    "private": false,
+    "inherited": true,
+    "external": true
+  },
+  "replaceText": {
+    "inCodeCommentText": false,
+    "inCodeCommentTags": false,
+    "inIncludedFiles": true,
+    "replacements": [
+      {
+        "pattern": "./public/",
+        "replace": "./media/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "*.ts": [
+    "prettier --config .prettierrc.json -w",
+    "eslint --config .eslintrc.json --fix"
+  ]
+}
