@@ -10,6 +10,8 @@ jobs:
   test:
     name: Run tests
     runs-on: ubuntu-latest
+    env:
+      TEST_API_KEY: ${{ secrets.TEST_API_KEY }}
 
     strategy:
       matrix:
