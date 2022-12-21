@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.4...v0.1.5) (2022-12-21)
+
+
+### Bug Fixes
+
+* **dependabot:** Added dependabot config ([#6](https://github.com/arthur-melo/abuseipdb-client/issues/6)) ([4967375](https://github.com/arthur-melo/abuseipdb-client/commit/4967375f55b7be59f989b42189bf58a3401ae7b7))
+
 ## [0.1.4](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.3...v0.1.4) (2022-12-21)
 
 
