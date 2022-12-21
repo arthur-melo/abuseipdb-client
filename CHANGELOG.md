@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.3...v0.1.4) (2022-12-21)
+
+
+### Bug Fixes
+
+* **readme:** Readme description ([#5](https://github.com/arthur-melo/abuseipdb-client/issues/5)) ([c441bdd](https://github.com/arthur-melo/abuseipdb-client/commit/c441bdd7392f57447d8a94d6d877fd5f6146225c))
+
 ## [0.1.3](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.2...v0.1.3) (2022-12-21)
 
 
