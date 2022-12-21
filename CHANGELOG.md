@@ -1,3 +1,10 @@
+## [0.1.6](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.5...v0.1.6) (2022-12-21)
+
+
+### Bug Fixes
+
+* **dependabot:** Moved config from workflow to root ([#7](https://github.com/arthur-melo/abuseipdb-client/issues/7)) ([4ce46a1](https://github.com/arthur-melo/abuseipdb-client/commit/4ce46a1624f8e816827a62a6feb1f94d9c6c9896))
+
 ## [0.1.5](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.4...v0.1.5) (2022-12-21)
 
 
