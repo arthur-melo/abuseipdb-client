@@ -8,7 +8,9 @@
 </h1>
 
 ![License](https://img.shields.io/github/license/arthur-melo/abuseipdb-client)
-![Codecov](https://img.shields.io/codecov/c/github/arthur-melo/abuseipdb-client)
+[![codecov](https://codecov.io/gh/arthur-melo/abuseipdb-client/branch/main/graph/badge.svg?token=M6BA5MDD1V)](https://codecov.io/gh/arthur-melo/abuseipdb-client)
+![npm](https://img.shields.io/npm/dw/abuseipdb-client)
+![npm](https://img.shields.io/npm/v/abuseipdb-client)
 
 Unofficial [AbuseIPDB](https://www.abuseipdb.com/) Node.js client library.
 
@@ -187,4 +189,4 @@ I'll keep an eye whether the team behind AbuseIPDB adds support for this use cas
 
 ## License
 
-abuseipdb-client is released under the [MIT license](https://github.com/arthur-melo/abuseipdb-client/LICENSE).
+abuseipdb-client is released under the [MIT license](https://github.com/arthur-melo/abuseipdb-client/blob/main/LICENSE).
