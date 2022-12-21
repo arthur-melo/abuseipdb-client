@@ -189,4 +189,4 @@ I'll keep an eye whether the team behind AbuseIPDB adds support for this use cas
 
 ## License
 
-abuseipdb-client is released under the [MIT license](https://github.com/arthur-melo/abuseipdb-client/tree/main/LICENSE).
+abuseipdb-client is released under the [MIT license](https://github.com/arthur-melo/abuseipdb-client/blob/main/LICENSE).
