@@ -1,3 +1,11 @@
+## [0.1.7](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.6...v0.1.7) (2022-12-22)
+
+
+### Bug Fixes
+
+* **husky:** disabled husky on CI env ([#10](https://github.com/arthur-melo/abuseipdb-client/issues/10)) ([1659367](https://github.com/arthur-melo/abuseipdb-client/commit/165936768a5b6697ae4a96683efb76c430a66e71))
+* **husky:** lintstaged git hook ([#9](https://github.com/arthur-melo/abuseipdb-client/issues/9)) ([15911be](https://github.com/arthur-melo/abuseipdb-client/commit/15911bea26fb307bd8a339859e9b7b958c804edf))
+
 ## [0.1.6](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.5...v0.1.6) (2022-12-21)
 
 
