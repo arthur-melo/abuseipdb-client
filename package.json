@@ -46,6 +46,7 @@
   },
   "devDependencies": {
     "@jest/globals": "^29.3.1",
+    "@qiwi/semantic-release-gh-pages-plugin": "^5.2.3",
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
