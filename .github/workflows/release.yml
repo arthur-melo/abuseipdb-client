@@ -6,8 +6,7 @@ on:
     - cron: '0 12 * * *'
 
 jobs:
-  test:
-    name: Run tests
+  release:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -15,7 +14,8 @@ jobs:
       TEST_API_KEY: ${{ secrets.TEST_API_KEY }}
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
@@ -23,7 +23,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 14.18.0
-          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
