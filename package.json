@@ -1,6 +1,6 @@
 {
   "name": "abuseipdb-client",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "private": false,
   "description": "AbuseIPDB Node.js API client.",
   "author": "Arthur Melo <contact@arthurmelo.com>",
@@ -46,6 +46,7 @@
   },
   "devDependencies": {
     "@jest/globals": "^29.3.1",
+    "@qiwi/semantic-release-gh-pages-plugin": "^5.2.3",
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
