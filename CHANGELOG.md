@@ -7,7 +7,16 @@
 
 ## [0.1.9](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.8...v0.1.9) (2022-12-25)
 
+### Chores
+
+* **deps-dev:** bump rollup-plugin-dts from 5.0.0 to 5.1.0 ([#14](https://github.com/arthur-melo/abuseipdb-client/issues/14)) ([1bcc121](https://github.com/arthur-melo/abuseipdb-client/commit/1bcc121bc1cb047bc9bbe58b82f62cd36cd34c54))
+
 ## [0.1.8](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.7...v0.1.8) (2022-12-24)
+
+
+### Chores
+
+* **deps-dev:** bump rollup from 3.7.5 to 3.8.1 ([#13](https://github.com/arthur-melo/abuseipdb-client/issues/13)) ([ee64027](https://github.com/arthur-melo/abuseipdb-client/commit/ee64027d4832d46c47998c9eaf06b3369a0e1ffa))
 
 ## [0.1.7](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.6...v0.1.7) (2022-12-22)
 
@@ -51,3 +60,17 @@
 ### Bug Fixes
 
 * **ci:** Added missing semantic-release config ([#3](https://github.com/arthur-melo/abuseipdb-client/issues/3)) ([e32f07d](https://github.com/arthur-melo/abuseipdb-client/commit/e32f07d6ef5591983c370b1629606350821533db))
+
+## [0.1.1](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.0...v0.1.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* **docs:** updated broken references ([#1](https://github.com/arthur-melo/abuseipdb-client/issues/1)) ([a5dc2d1](https://github.com/arthur-melo/abuseipdb-client/commit/a5dc2d1d1440c701c4b7ed4c2cda0aec4fa8226b))
+
+## [0.1.0](https://github.com/arthur-melo/abuseipdb-client/tree/v0.1.0) (2022-12-21)
+
+
+### Chores
+
+* **release:** v0.1.0 ([c347504](https://github.com/arthur-melo/abuseipdb-client/commit/c347504d12af02ff5e6ed8b19844e9d9e6c92388))
