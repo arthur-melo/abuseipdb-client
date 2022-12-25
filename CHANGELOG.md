@@ -1,3 +1,10 @@
+## [0.1.10](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.9...v0.1.10) (2022-12-25)
+
+
+### Bug Fixes
+
+* **typings:** included jsonapi-typescript declarations on prod installs ([#21](https://github.com/arthur-melo/abuseipdb-client/issues/21)) ([a2753b5](https://github.com/arthur-melo/abuseipdb-client/commit/a2753b58b7224e7e0b9df86903ee4782cba90cc8))
+
 ## [0.1.9](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.8...v0.1.9) (2022-12-25)
 
 ## [0.1.8](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.7...v0.1.8) (2022-12-24)
