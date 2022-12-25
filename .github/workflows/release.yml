@@ -39,3 +39,5 @@ jobs:
 
       - name: Run semantic-release
         run: npm run semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
