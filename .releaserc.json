@@ -11,15 +11,9 @@
     [
       "@semantic-release/release-notes-generator",
       {
-        "preset": "angular",
+        "preset": "conventionalcommits",
         "presetConfig": {
-          "types": [
-            {
-              "type": "chore",
-              "section": "Chores",
-              "hidden": false
-            }
-          ]
+          "types": [{ "type": "chore", "section": "Chores", "hidden": false }]
         }
       }
     ],
