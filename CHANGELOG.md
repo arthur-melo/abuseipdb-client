@@ -1,3 +1,5 @@
+## [0.1.11](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.10...v0.1.11) (2022-12-26)
+
 ## [0.1.10](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.9...v0.1.10) (2022-12-25)
 
 
