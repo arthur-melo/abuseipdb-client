@@ -6,6 +6,7 @@ import { z } from 'zod';
 import {
   ClientResponse,
   APIResponse,
+  APIResponseError,
   ClientHeaders,
   APICheckEndpointResponse,
   APIBlacklistEndpointResponse,
@@ -200,10 +201,13 @@ class AbuseIPDBClient {
       } as ClientResponse<T>;
     } else {
       const body = await fetchAPIResponse.json();
-      if (body.errors) {
-        formattedResponse = { headers, error: body };
+      if ((body as APIResponseError).errors) {
+        formattedResponse = { headers, error: body as APIResponseError };
       } else {
-        formattedResponse = { headers, result: body };
+        formattedResponse = {
+          headers,
+          result: body as Extract<APIResponse, T>,
+        };
       }
     }
 
