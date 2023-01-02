@@ -1,4 +1,4 @@
-import fetch from 'isomorphic-unfetch';
+import unfetch from 'isomorphic-unfetch';
 import { fileFromSync } from 'fetch-blob/from.js';
 import { FormData } from 'formdata-polyfill/esm.min.js';
 import { z } from 'zod';
@@ -145,7 +145,7 @@ class AbuseIPDBClient {
     };
   }
 
-  #buildResponseHeaders(response: fetch.IsomorphicResponse): ClientHeaders {
+  #buildResponseHeaders(response: unfetch.IsomorphicResponse): ClientHeaders {
     const headersJson: Partial<ClientHeaders> = {};
 
     // From fetch response.
@@ -173,7 +173,7 @@ class AbuseIPDBClient {
   }
 
   async #formatResponse<T extends APIResponse>(
-    fetchAPIResponse: fetch.IsomorphicResponse,
+    fetchAPIResponse: unfetch.IsomorphicResponse,
   ): Promise<ClientResponse<T>> {
     const headers = this.#buildResponseHeaders(fetchAPIResponse);
 
@@ -277,7 +277,7 @@ class AbuseIPDBClient {
     // Validates the input parameters given by the client.
     const validatedInput = this.#validateData(parameters, schema);
 
-    let response: fetch.IsomorphicResponse;
+    let response: unfetch.IsomorphicResponse;
     if (endpointURI === 'bulk-report') {
       // There is no need to append QueryParams for the bulk-report endpoint, so it is removed here.
       const url = this.#formatUrl(endpointURI);
