@@ -1,3 +1,14 @@
+## [0.1.13](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.12...v0.1.13) (2023-01-03)
+
+
+### Chores
+
+* **deps-dev:** bump @types/jest from 29.2.4 to 29.2.5 ([#35](https://github.com/arthur-melo/abuseipdb-client/issues/35)) ([de2f9a3](https://github.com/arthur-melo/abuseipdb-client/commit/de2f9a3375d05e37bc8ea940413bf1909f7bf86e))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#36](https://github.com/arthur-melo/abuseipdb-client/issues/36)) ([1b53066](https://github.com/arthur-melo/abuseipdb-client/commit/1b530667bd8c924951033711d93850521a2ffba0))
+* **deps-dev:** bump jest-extended from 3.2.0 to 3.2.1 ([#33](https://github.com/arthur-melo/abuseipdb-client/issues/33)) ([9862636](https://github.com/arthur-melo/abuseipdb-client/commit/9862636b7c12ce1ef3dcb18f63d2b77efbaa14a4))
+* **deps-dev:** bump rollup from 3.9.0 to 3.9.1 ([#37](https://github.com/arthur-melo/abuseipdb-client/issues/37)) ([4f1e095](https://github.com/arthur-melo/abuseipdb-client/commit/4f1e095814ba4d175b8e862ffe664bc721cfcbbc))
+* **deps:** bump isomorphic-unfetch from 3.1.0 to 4.0.1 ([#34](https://github.com/arthur-melo/abuseipdb-client/issues/34)) ([b6812d8](https://github.com/arthur-melo/abuseipdb-client/commit/b6812d85452769e1cdd2d7bd2a313643f9b4521c))
+
 ## [0.1.12](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.11...v0.1.12) (2022-12-28)
 
 
