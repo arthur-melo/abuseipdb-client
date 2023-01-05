@@ -1,3 +1,14 @@
+## [0.1.14](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.13...v0.1.14) (2023-01-05)
+
+
+### Chores
+
+* **deps-dev:** bump @typescript-eslint/parser from 5.47.1 to 5.48.0 ([#38](https://github.com/arthur-melo/abuseipdb-client/issues/38)) ([5ee8b95](https://github.com/arthur-melo/abuseipdb-client/commit/5ee8b95fd3ad15aef66444fbeb5fa9b3127ff840))
+* **deps-dev:** bump eslint from 8.30.0 to 8.31.0 ([#40](https://github.com/arthur-melo/abuseipdb-client/issues/40)) ([d7c39b8](https://github.com/arthur-melo/abuseipdb-client/commit/d7c39b8eda63fbe8615ee4aab9167ace60ce6c3a))
+* **deps-dev:** bump eslint-plugin-jest from 27.1.7 to 27.2.0 ([#41](https://github.com/arthur-melo/abuseipdb-client/issues/41)) ([9c2505c](https://github.com/arthur-melo/abuseipdb-client/commit/9c2505c84940534b982ec5abfc3a2029788e345d))
+* **deps-dev:** bump husky from 8.0.2 to 8.0.3 ([#42](https://github.com/arthur-melo/abuseipdb-client/issues/42)) ([2d67cf9](https://github.com/arthur-melo/abuseipdb-client/commit/2d67cf9971285aaab187b1f3935173dd0e8b303d))
+* **deps:** bump isomorphic-unfetch from 4.0.1 to 4.0.2 ([#39](https://github.com/arthur-melo/abuseipdb-client/issues/39)) ([d958b8d](https://github.com/arthur-melo/abuseipdb-client/commit/d958b8d8b9f2374ef9a12c84f9caaf93372f0675))
+
 ## [0.1.13](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.12...v0.1.13) (2023-01-03)
 
 
