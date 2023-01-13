@@ -1,3 +1,15 @@
+## [0.1.16](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.15...v0.1.16) (2023-01-13)
+
+
+### Chores
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#50](https://github.com/arthur-melo/abuseipdb-client/issues/50)) ([bca6c55](https://github.com/arthur-melo/abuseipdb-client/commit/bca6c55759fb10e405e597c33c6bf3074e4e921f))
+* **deps-dev:** bump jest-extended from 3.2.2 to 3.2.3 ([#53](https://github.com/arthur-melo/abuseipdb-client/issues/53)) ([8400134](https://github.com/arthur-melo/abuseipdb-client/commit/84001345864c5e808ae4eaad05380e790b05d69f))
+* **deps-dev:** bump prettier from 2.8.1 to 2.8.2 ([#49](https://github.com/arthur-melo/abuseipdb-client/issues/49)) ([039dae6](https://github.com/arthur-melo/abuseipdb-client/commit/039dae626df88cfded5b4cd68311281ad8298b9a))
+* **deps-dev:** bump rollup-plugin-dts from 5.1.0 to 5.1.1 ([#51](https://github.com/arthur-melo/abuseipdb-client/issues/51)) ([48efc50](https://github.com/arthur-melo/abuseipdb-client/commit/48efc509d9902f6eeccae07bce615b868c384ae2))
+* **deps-dev:** bump semantic-release from 19.0.5 to 20.0.2 ([#52](https://github.com/arthur-melo/abuseipdb-client/issues/52)) ([7ad8ba3](https://github.com/arthur-melo/abuseipdb-client/commit/7ad8ba3f209637ad79cc7dd7db768c383189e216))
+* **nvm:** added .nvmrc ([#55](https://github.com/arthur-melo/abuseipdb-client/issues/55)) ([688c6b3](https://github.com/arthur-melo/abuseipdb-client/commit/688c6b39cc6d2e9d52fa158f0fd3edc511e511ba))
+
 ## [0.1.15](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.14...v0.1.15) (2023-01-11)
 
 
