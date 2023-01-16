@@ -1,3 +1,12 @@
+## [0.1.17](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.16...v0.1.17) (2023-01-16)
+
+
+### Chores
+
+* **deps-dev:** bump rimraf from 3.0.2 to 4.0.4 ([#57](https://github.com/arthur-melo/abuseipdb-client/issues/57)) ([3700932](https://github.com/arthur-melo/abuseipdb-client/commit/3700932f3258854b69c2f8b9c170a7a9e54050b9))
+* **deps-dev:** bump rollup from 3.9.1 to 3.10.0 ([#56](https://github.com/arthur-melo/abuseipdb-client/issues/56)) ([538f7c0](https://github.com/arthur-melo/abuseipdb-client/commit/538f7c0548705e7bebce96536fea7b3d8344d38a))
+* **deps-dev:** bump ts-jest from 29.0.3 to 29.0.5 ([#58](https://github.com/arthur-melo/abuseipdb-client/issues/58)) ([d7ce7cf](https://github.com/arthur-melo/abuseipdb-client/commit/d7ce7cf81766bf515cc8b10f34bb27739fdccbc4))
+
 ## [0.1.16](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.15...v0.1.16) (2023-01-13)
 
 
