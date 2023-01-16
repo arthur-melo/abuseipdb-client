@@ -73,7 +73,7 @@
     "jest-fetch-mock": "^3.0.3",
     "lint-staged": "^13.1.0",
     "prettier": "^2.8.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.4",
     "rollup": "^3.7.5",
     "rollup-plugin-bundle-size": "^1.0.3",
     "rollup-plugin-dts": "^5.0.0",
