@@ -1,3 +1,14 @@
+## [0.1.18](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.17...v0.1.18) (2023-01-17)
+
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 9.0.1 to 9.0.2 ([#61](https://github.com/arthur-melo/abuseipdb-client/issues/61)) ([1203c1f](https://github.com/arthur-melo/abuseipdb-client/commit/1203c1fab697a90744e0b0f3c30265e973dd0915))
+* **deps-dev:** bump @typescript-eslint/parser from 5.48.1 to 5.48.2 ([#63](https://github.com/arthur-melo/abuseipdb-client/issues/63)) ([8b0d851](https://github.com/arthur-melo/abuseipdb-client/commit/8b0d851d8349867b053580cf07011744bf283cce))
+* **deps-dev:** bump eslint from 8.31.0 to 8.32.0 ([#62](https://github.com/arthur-melo/abuseipdb-client/issues/62)) ([3d142ca](https://github.com/arthur-melo/abuseipdb-client/commit/3d142ca4e350ec8d37ffa2d6f94ecf34c7ffff32))
+* **deps-dev:** bump prettier from 2.8.2 to 2.8.3 ([#59](https://github.com/arthur-melo/abuseipdb-client/issues/59)) ([56f9c6b](https://github.com/arthur-melo/abuseipdb-client/commit/56f9c6b9fc09b36ba8e46dabd24a1bddd26a0581))
+* **deps-dev:** bump rimraf from 4.0.4 to 4.0.7 ([#60](https://github.com/arthur-melo/abuseipdb-client/issues/60)) ([e2cae45](https://github.com/arthur-melo/abuseipdb-client/commit/e2cae45bed1ef01d8ba34b1f81210379809142aa))
+
 ## [0.1.17](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.16...v0.1.17) (2023-01-16)
 
 
