@@ -15,5 +15,5 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run Auto-merge Dependabot plugin
+      - name: Run plugin
         uses: ahmadnassri/action-dependabot-auto-merge@v2
