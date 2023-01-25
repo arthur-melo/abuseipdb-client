@@ -1,3 +1,13 @@
+## [0.1.22](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.21...v0.1.22) (2023-01-25)
+
+
+### Chores
+
+* **deps-dev:** bump @types/validator from 13.7.10 to 13.7.11 ([566ac1a](https://github.com/arthur-melo/abuseipdb-client/commit/566ac1a94555b2d60b0043bb8dae219a88700688))
+* **deps-dev:** bump jest from 29.3.1 to 29.4.0 ([97bb38a](https://github.com/arthur-melo/abuseipdb-client/commit/97bb38a29af4d5ec6a5b5030ad373739ea992727))
+* **deps-dev:** bump rimraf from 4.1.1 to 4.1.2 ([46a0eaa](https://github.com/arthur-melo/abuseipdb-client/commit/46a0eaab5f43d7c3794f247f937a37766bda48d7))
+* **deps-dev:** bump semantic-release from 20.0.3 to 20.0.4 ([dfff802](https://github.com/arthur-melo/abuseipdb-client/commit/dfff802d67c32f2a50658f8838f75414aa4d13a5))
+
 ## [0.1.21](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.20...v0.1.21) (2023-01-24)
 
 
