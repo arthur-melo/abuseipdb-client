@@ -1,3 +1,11 @@
+## [0.1.24](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.23...v0.1.24) (2023-01-27)
+
+
+### Chores
+
+* **deps-dev:** bump jest from 29.4.0 to 29.4.1 ([1a64af9](https://github.com/arthur-melo/abuseipdb-client/commit/1a64af9799372ded84c82f7926b76c77d0aad947))
+* **deps-dev:** bump rollup from 3.10.1 to 3.11.0 ([17795aa](https://github.com/arthur-melo/abuseipdb-client/commit/17795aa11a72e0973beba04e8a4a0da4b81027e3))
+
 ## [0.1.23](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.22...v0.1.23) (2023-01-26)
 
 
