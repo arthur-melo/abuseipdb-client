@@ -1,3 +1,12 @@
+## [0.1.35](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.34...v0.1.35) (2023-02-16)
+
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 29.4.2 to 29.4.3 ([623f32e](https://github.com/arthur-melo/abuseipdb-client/commit/623f32e72d3e7f6b2ec6f2a803f13faa4cd56682))
+* **deps-dev:** bump jest from 29.4.2 to 29.4.3 ([f65275c](https://github.com/arthur-melo/abuseipdb-client/commit/f65275cf8ffdf244d065b84d90029c6d24748aff))
+* **deps-dev:** bump rollup-plugin-dts from 5.1.1 to 5.2.0 ([c403aca](https://github.com/arthur-melo/abuseipdb-client/commit/c403aca83061f83cbd1fd1d4a7f2a7d9d00692c6))
+
 ## [0.1.34](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.33...v0.1.34) (2023-02-14)
 
 
