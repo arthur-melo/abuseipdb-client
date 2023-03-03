@@ -1,3 +1,10 @@
+## [0.1.40](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.39...v0.1.40) (2023-03-03)
+
+
+### Chores
+
+* **deps-dev:** bump rimraf from 4.1.2 to 4.1.3 ([47add2a](https://github.com/arthur-melo/abuseipdb-client/commit/47add2ab202ec4344344a37c99bdd96f5403167b))
+
 ## [0.1.39](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.38...v0.1.39) (2023-03-02)
 
 
