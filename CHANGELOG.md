@@ -1,3 +1,11 @@
+## [0.1.45](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.44...v0.1.45) (2023-03-11)
+
+
+### Chores
+
+* **deps-dev:** bump lint-staged from 13.1.2 to 13.2.0 ([7912c9b](https://github.com/arthur-melo/abuseipdb-client/commit/7912c9b9e60c6641bc4d284dc0f5977b9ca4f631))
+* **deps-dev:** bump rollup from 3.19.0 to 3.19.1 ([06e3272](https://github.com/arthur-melo/abuseipdb-client/commit/06e3272c4c435c03d3c3cc1565125a8b11878264))
+
 ## [0.1.44](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.43...v0.1.44) (2023-03-10)
 
 
