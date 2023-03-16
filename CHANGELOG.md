@@ -1,3 +1,10 @@
+## [0.1.48](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.47...v0.1.48) (2023-03-16)
+
+
+### Chores
+
+* **deps-dev:** bump @types/jest from 29.4.1 to 29.4.3 ([2c97c58](https://github.com/arthur-melo/abuseipdb-client/commit/2c97c589a707bf74ac0e396195c0ae53d1746f5c))
+
 ## [0.1.47](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.46...v0.1.47) (2023-03-15)
 
 
