@@ -1,3 +1,12 @@
+## [0.1.51](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.50...v0.1.51) (2023-03-24)
+
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 9.0.2 to 10.0.2 ([dbe84c0](https://github.com/arthur-melo/abuseipdb-client/commit/dbe84c0b544b1e51df7fb290b32718030753e6ce))
+* **deps-dev:** bump rimraf from 4.4.0 to 4.4.1 ([6533cbc](https://github.com/arthur-melo/abuseipdb-client/commit/6533cbc82c0c43b1d255137fa9ebe6dbd99490e4))
+* **deps-dev:** bump rollup from 3.20.0 to 3.20.1 ([e113d42](https://github.com/arthur-melo/abuseipdb-client/commit/e113d4268a9d92ab565942fd66f78d66b43aff7b))
+
 ## [0.1.50](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.49...v0.1.50) (2023-03-22)
 
 
