@@ -1,3 +1,11 @@
+## [0.1.53](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.52...v0.1.53) (2023-03-29)
+
+
+### Chores
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([057217d](https://github.com/arthur-melo/abuseipdb-client/commit/057217d013985596cd2abd55b896fdf59aa586d9))
+* **deps-dev:** bump semantic-release from 20.1.3 to 21.0.0 ([005f97c](https://github.com/arthur-melo/abuseipdb-client/commit/005f97cd6e52d11b9b7d61583581f8d02c28e7a0))
+
 ## [0.1.52](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.51...v0.1.52) (2023-03-28)
 
 
