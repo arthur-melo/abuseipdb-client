@@ -1,3 +1,11 @@
+## [0.1.54](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.53...v0.1.54) (2023-03-30)
+
+
+### Chores
+
+* **deps-dev:** bump @types/node-fetch from 2.6.2 to 2.6.3 ([b5065a3](https://github.com/arthur-melo/abuseipdb-client/commit/b5065a3ee6f17eddd2cf0fa3378d16a0b887c9bb))
+* **deps-dev:** bump eslint from 8.36.0 to 8.37.0 ([ea50506](https://github.com/arthur-melo/abuseipdb-client/commit/ea5050610ccbe28d3237c9ff33bba16693d88c58))
+
 ## [0.1.53](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.52...v0.1.53) (2023-03-29)
 
 
