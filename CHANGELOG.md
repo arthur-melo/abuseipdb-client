@@ -1,3 +1,10 @@
+## [0.1.56](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.55...v0.1.56) (2023-04-05)
+
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-node-resolve from 15.0.1 to 15.0.2 ([f246693](https://github.com/arthur-melo/abuseipdb-client/commit/f2466937ae34302bfb5e1c3c37e20c486d90a0b6))
+
 ## [0.1.55](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.54...v0.1.55) (2023-04-04)
 
 
