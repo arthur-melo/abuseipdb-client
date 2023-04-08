@@ -1,3 +1,11 @@
+## [0.1.57](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.56...v0.1.57) (2023-04-08)
+
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 10.0.2 to 10.0.3 ([32835fb](https://github.com/arthur-melo/abuseipdb-client/commit/32835fb60b195e02145d099ac5880bd97bc49477))
+* **deps-dev:** bump lint-staged from 13.2.0 to 13.2.1 ([40f550d](https://github.com/arthur-melo/abuseipdb-client/commit/40f550d59b18c3bb4b6e04a655b8e3a495db3638))
+
 ## [0.1.56](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.55...v0.1.56) (2023-04-05)
 
 
