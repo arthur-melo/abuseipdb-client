@@ -1,3 +1,10 @@
+## [0.1.59](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.58...v0.1.59) (2023-04-13)
+
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-commonjs from 24.0.1 to 24.1.0 ([69a98f9](https://github.com/arthur-melo/abuseipdb-client/commit/69a98f9bdc81cf628815e479fe8c86308ba60db9))
+
 ## [0.1.58](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.57...v0.1.58) (2023-04-11)
 
 
