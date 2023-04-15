@@ -1,3 +1,10 @@
+## [0.1.60](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.59...v0.1.60) (2023-04-15)
+
+
+### Chores
+
+* **deps-dev:** bump @types/validator from 13.7.14 to 13.7.15 ([459f251](https://github.com/arthur-melo/abuseipdb-client/commit/459f251d8355b0f9c48adc339da00d9f5b4737d9))
+
 ## [0.1.59](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.58...v0.1.59) (2023-04-13)
 
 
