@@ -32,7 +32,7 @@
     "build": "npm run clean && rollup --config rollup.config.js",
     "test": "cross-env NODE_OPTIONS='--experimental-vm-modules --no-warnings' jest --coverage",
     "lint": "prettier -w '{lib,test}/**/*.ts' && eslint --fix '{lib,test}/**/*.ts'",
-    "docs": "typedoc",
+    "docs": "typedoc --plugin typedoc-plugin-replace-text",
     "prepublishOnly": "npm run test && npm run build",
     "prepare": "is-ci || husky install",
     "semantic-release": "semantic-release"
