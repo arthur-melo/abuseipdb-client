@@ -84,6 +84,7 @@ export interface APICheckEndpointResponse {
     countryName?: string | null;
     usageType: UsageType;
     isp: string;
+    isTor: boolean;
     domain: string | null;
     hostnames: Array<string>;
     totalReports: number;

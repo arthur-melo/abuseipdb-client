@@ -43,6 +43,7 @@ const checkResponse = libraryResponseWrapper({
     countryName: expect.toBeOneOf([expect.toBeNil(), expect.any(String)]),
     usageType: expect.toBeOneOf([expect.toBeNil(), expect.any(String)]),
     isp: expect.any(String),
+    isTor: expect.toBeBoolean(),
     domain: expect.toBeOneOf([expect.toBeNil(), expect.any(String)]),
     hostnames: expect.toBeOneOf([
       expect.toBeEmpty(),
