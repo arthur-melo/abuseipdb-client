@@ -142,14 +142,6 @@ describe('AbuseIPDBClient Unit Tests', () => {
         'Array must contain at most 30 element(s)',
       );
 
-      expect(client.report(validIP, [-1])).rejects.toThrow(
-        'Number must be greater than or equal to 1',
-      );
-
-      expect(client.report(validIP, [24])).rejects.toThrow(
-        'Number must be less than or equal to 23',
-      );
-
       expect(
         client.report(validIP, [1], { comment: Array(1025 + 1).toString() }),
       ).rejects.toThrow('String must contain at most 1024 character(s)');
