@@ -1,3 +1,11 @@
+## [0.1.73](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.72...v0.1.73) (2023-05-17)
+
+
+### Chores
+
+* **deps-dev:** bump @types/node-fetch from 2.6.3 to 2.6.4 ([835b9c7](https://github.com/arthur-melo/abuseipdb-client/commit/835b9c79e149307b28c020dc6a4f991ce34e164d))
+* **deps-dev:** bump rollup from 3.21.7 to 3.21.8 ([1a60b74](https://github.com/arthur-melo/abuseipdb-client/commit/1a60b745283616828b212e354347ea17bb473109))
+
 ## [0.1.72](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.71...v0.1.72) (2023-05-16)
 
 
