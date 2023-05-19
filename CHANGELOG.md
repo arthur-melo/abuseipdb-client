@@ -1,3 +1,11 @@
+## [0.1.75](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.74...v0.1.75) (2023-05-19)
+
+
+### Chores
+
+* **deps-dev:** bump rimraf from 5.0.0 to 5.0.1 ([f13ece3](https://github.com/arthur-melo/abuseipdb-client/commit/f13ece3bd6dcd0514a21ae48e4ae6121bc815124))
+* **deps-dev:** bump tslib from 2.5.0 to 2.5.1 ([e73105e](https://github.com/arthur-melo/abuseipdb-client/commit/e73105e84d90e49e361f50678f1eccb8f12b0c28))
+
 ## [0.1.74](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.73...v0.1.74) (2023-05-18)
 
 
