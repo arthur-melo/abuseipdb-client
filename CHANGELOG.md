@@ -1,3 +1,11 @@
+## [0.1.79](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.78...v0.1.79) (2023-06-04)
+
+
+### Chores
+
+* **deps-dev:** bump @types/jest from 29.5.1 to 29.5.2 ([9d56287](https://github.com/arthur-melo/abuseipdb-client/commit/9d562877d3b6d3d10bf0b97da98d0fb6f24a2057))
+* **deps-dev:** bump typescript from 5.0.4 to 5.1.3 ([81e9c0c](https://github.com/arthur-melo/abuseipdb-client/commit/81e9c0cd64e84c9b748c4b5a680a68f7044e13ff))
+
 ## [0.1.78](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.77...v0.1.78) (2023-06-01)
 
 
