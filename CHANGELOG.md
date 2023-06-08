@@ -1,3 +1,13 @@
+## [0.1.80](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.79...v0.1.80) (2023-06-08)
+
+
+### Chores
+
+* **deps-dev:** bump eslint from 8.41.0 to 8.42.0 ([8c63f8b](https://github.com/arthur-melo/abuseipdb-client/commit/8c63f8b34abd1f45579913a5e7d481c22c85f83f))
+* **deps-dev:** bump semantic-release from 21.0.2 to 21.0.3 ([5225265](https://github.com/arthur-melo/abuseipdb-client/commit/52252654b00cf0d5d67d4690338358642c31c6c9))
+* **deps-dev:** bump tslib from 2.5.2 to 2.5.3 ([530936c](https://github.com/arthur-melo/abuseipdb-client/commit/530936c7cf674a8b78707f395fb8fb46a67dcbff))
+* **deps-dev:** bump typedoc from 0.24.7 to 0.24.8 ([4104f25](https://github.com/arthur-melo/abuseipdb-client/commit/4104f252c199611aab37beddc58b20503e3ba9f7))
+
 ## [0.1.79](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.78...v0.1.79) (2023-06-04)
 
 
