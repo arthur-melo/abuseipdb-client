@@ -1,3 +1,10 @@
+## [0.1.87](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.86...v0.1.87) (2023-06-24)
+
+
+### Chores
+
+* **deps-dev:** bump rollup-plugin-typescript2 from 0.34.1 to 0.35.0 ([84c4166](https://github.com/arthur-melo/abuseipdb-client/commit/84c416699de0b16a9fd3da27f12f93c29a840d61))
+
 ## [0.1.86](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.85...v0.1.86) (2023-06-21)
 
 
