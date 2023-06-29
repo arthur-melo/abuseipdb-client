@@ -1,3 +1,10 @@
+## [0.1.90](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.89...v0.1.90) (2023-06-29)
+
+
+### Chores
+
+* **deps-dev:** bump typescript from 5.1.3 to 5.1.5 ([f86a5ef](https://github.com/arthur-melo/abuseipdb-client/commit/f86a5ef847072f9ac0bdd0bce1abdfc91045d18c))
+
 ## [0.1.89](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.88...v0.1.89) (2023-06-28)
 
 
