@@ -1,3 +1,14 @@
+## [0.1.91](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.90...v0.1.91) (2023-07-01)
+
+
+### Chores
+
+* **deps-dev:** bump lint-staged from 13.2.2 to 13.2.3 ([ae4f3a8](https://github.com/arthur-melo/abuseipdb-client/commit/ae4f3a8d6f796e5bc927479cff9dddd5d5600fad))
+* **deps-dev:** bump rollup from 3.25.3 to 3.26.0 ([f6c0544](https://github.com/arthur-melo/abuseipdb-client/commit/f6c05447b762851459c5109fb28cc6b4ce9c2b1d))
+* **deps-dev:** bump semantic-release from 21.0.5 to 21.0.6 ([6d63c3c](https://github.com/arthur-melo/abuseipdb-client/commit/6d63c3c9b510f547e4db28c865bc6d9379aeaae8))
+* **deps-dev:** bump ts-jest from 29.1.0 to 29.1.1 ([d76302b](https://github.com/arthur-melo/abuseipdb-client/commit/d76302bfd0a0134a1ab4609fc92e71d8d8083d5d))
+* **deps-dev:** bump typescript from 5.1.5 to 5.1.6 ([609b5ca](https://github.com/arthur-melo/abuseipdb-client/commit/609b5ca57c78c30e8d91967cc4ddfd3a16bb3ee1))
+
 ## [0.1.90](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.89...v0.1.90) (2023-06-29)
 
 
