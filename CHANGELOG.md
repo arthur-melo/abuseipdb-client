@@ -1,3 +1,12 @@
+## [0.1.94](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.93...v0.1.94) (2023-07-06)
+
+
+### Chores
+
+* **deps-dev:** bump prettier from 2.8.8 to 3.0.0 ([2146612](https://github.com/arthur-melo/abuseipdb-client/commit/2146612cb53b011c0afe804186531de8ab5fbd96))
+* **deps-dev:** bump rollup from 3.26.0 to 3.26.1 ([e5e40ec](https://github.com/arthur-melo/abuseipdb-client/commit/e5e40ec1f722aadac0ab61c3e8dd630837728957))
+* **deps-dev:** bump semantic-release from 21.0.6 to 21.0.7 ([c75eebd](https://github.com/arthur-melo/abuseipdb-client/commit/c75eebd9be7f50fb325c355069f9175b8a8169fc))
+
 ## [0.1.93](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.92...v0.1.93) (2023-07-05)
 
 
