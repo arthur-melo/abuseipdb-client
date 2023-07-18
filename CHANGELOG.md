@@ -1,3 +1,12 @@
+## [0.1.100](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.99...v0.1.100) (2023-07-18)
+
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-commonjs from 25.0.2 to 25.0.3 ([7bea3cd](https://github.com/arthur-melo/abuseipdb-client/commit/7bea3cd7c9907730b04f83d7db896c081ae1e736))
+* **deps-dev:** bump rollup from 3.26.2 to 3.26.3 ([254150d](https://github.com/arthur-melo/abuseipdb-client/commit/254150d408c2635924937043c795d6336d1b1eee))
+* **deps-dev:** bump typedoc-plugin-replace-text from 3.0.0 to 3.1.0 ([9d625b6](https://github.com/arthur-melo/abuseipdb-client/commit/9d625b652dabbbf23a8f7b4675dc80e130b85e76))
+
 ## [0.1.99](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.98...v0.1.99) (2023-07-15)
 
 
