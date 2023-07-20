@@ -1,3 +1,10 @@
+## [0.1.101](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.100...v0.1.101) (2023-07-20)
+
+
+### Chores
+
+* **deps-dev:** bump word-wrap from 1.2.3 to 1.2.4 ([13e4132](https://github.com/arthur-melo/abuseipdb-client/commit/13e41327db3f858beb67ae75fdc6c6fde1f92ae0))
+
 ## [0.1.100](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.99...v0.1.100) (2023-07-18)
 
 
