@@ -1,3 +1,10 @@
+## [0.1.102](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.101...v0.1.102) (2023-07-26)
+
+
+### Chores
+
+* **deps-dev:** bump tslib from 2.6.0 to 2.6.1 ([f621d76](https://github.com/arthur-melo/abuseipdb-client/commit/f621d765f3cda65ff6f771c0af034f5d753dc163))
+
 ## [0.1.101](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.100...v0.1.101) (2023-07-20)
 
 
