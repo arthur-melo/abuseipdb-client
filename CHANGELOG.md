@@ -1,3 +1,12 @@
+## [0.1.103](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.102...v0.1.103) (2023-07-28)
+
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 29.6.1 to 29.6.2 ([4adbecf](https://github.com/arthur-melo/abuseipdb-client/commit/4adbecfdd21581cb05118f475de15dc69f0aab7f))
+* **deps-dev:** bump eslint-config-prettier from 8.8.0 to 8.9.0 ([72206a7](https://github.com/arthur-melo/abuseipdb-client/commit/72206a78bc7577f00ce0ae0a4197761495e0dc32))
+* **deps-dev:** bump jest from 29.6.1 to 29.6.2 ([8c4df11](https://github.com/arthur-melo/abuseipdb-client/commit/8c4df11e2872ade2e3d1beb38c42b8273741697f))
+
 ## [0.1.102](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.101...v0.1.102) (2023-07-26)
 
 
