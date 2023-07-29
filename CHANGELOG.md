@@ -1,3 +1,11 @@
+## [0.1.104](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.103...v0.1.104) (2023-07-29)
+
+
+### Chores
+
+* **deps-dev:** bump eslint from 8.45.0 to 8.46.0 ([7df5d42](https://github.com/arthur-melo/abuseipdb-client/commit/7df5d42e9d958989c3c0a6a287dd648261e16573))
+* **deps-dev:** bump rollup from 3.26.3 to 3.27.0 ([48e6be5](https://github.com/arthur-melo/abuseipdb-client/commit/48e6be5c56f81d5f28d6f74518568ccf100960dd))
+
 ## [0.1.103](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.102...v0.1.103) (2023-07-28)
 
 
