@@ -1,3 +1,11 @@
+## [0.1.107](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.106...v0.1.107) (2023-08-05)
+
+
+### Chores
+
+* **deps-dev:** bump jest-extended from 4.0.0 to 4.0.1 ([c283c2e](https://github.com/arthur-melo/abuseipdb-client/commit/c283c2ea13c988234901aa42e09db31788cf6f31))
+* **deps-dev:** bump rollup from 3.27.0 to 3.27.2 ([b5c1ff6](https://github.com/arthur-melo/abuseipdb-client/commit/b5c1ff62a11f5c7bc97f3394ebcd4bad29bd34bb))
+
 ## [0.1.106](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.105...v0.1.106) (2023-08-04)
 
 
