@@ -1,3 +1,10 @@
+## [0.1.119](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.118...v0.1.119) (2023-08-25)
+
+
+### Chores
+
+* **deps-dev:** bump semantic-release from 21.0.9 to 21.1.1 ([dd9a443](https://github.com/arthur-melo/abuseipdb-client/commit/dd9a44305814b13166bd4d7e222c7020e0ec41f1))
+
 ## [0.1.118](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.117...v0.1.118) (2023-08-24)
 
 
