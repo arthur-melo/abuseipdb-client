@@ -1,3 +1,10 @@
+## [0.1.120](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.119...v0.1.120) (2023-08-26)
+
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 10.0.4 to 10.0.5 ([90db066](https://github.com/arthur-melo/abuseipdb-client/commit/90db0662f2d9ca93603e6a54601c4dae688c3854))
+
 ## [0.1.119](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.118...v0.1.119) (2023-08-25)
 
 
