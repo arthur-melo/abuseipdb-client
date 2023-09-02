@@ -1,3 +1,12 @@
+## [0.1.125](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.124...v0.1.125) (2023-09-02)
+
+
+### Chores
+
+* **deps-dev:** bump jest and @types/jest ([#335](https://github.com/arthur-melo/abuseipdb-client/issues/335)) ([bfa600d](https://github.com/arthur-melo/abuseipdb-client/commit/bfa600d8aea86b4fecd37d08473bcda014118aa8))
+* **deps-dev:** bump typescript from 5.1.6 to 5.2.2 ([00da5dc](https://github.com/arthur-melo/abuseipdb-client/commit/00da5dc3159a403e53bf200b6af5b0cf571cbef7))
+* **deps:** bump validator and @types/validator ([#315](https://github.com/arthur-melo/abuseipdb-client/issues/315)) ([d7c9244](https://github.com/arthur-melo/abuseipdb-client/commit/d7c924448a9ca6b0f462b5ed006e1b93ef21a4e0))
+
 ## [0.1.124](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.123...v0.1.124) (2023-09-01)
 
 
