@@ -1,3 +1,13 @@
+## [0.1.126](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.125...v0.1.126) (2023-09-07)
+
+
+### Chores
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#348](https://github.com/arthur-melo/abuseipdb-client/issues/348)) ([2707fae](https://github.com/arthur-melo/abuseipdb-client/commit/2707faeaf01001bec4ae3f1416ea10419d9a895a))
+* **deps-dev:** bump prettier from 3.0.2 to 3.0.3 ([#346](https://github.com/arthur-melo/abuseipdb-client/issues/346)) ([b133694](https://github.com/arthur-melo/abuseipdb-client/commit/b1336942ebfc3e74fde7054bc23df04fab3a5847))
+* **deps-dev:** bump rollup-plugin-dts from 6.0.0 to 6.0.1 ([#345](https://github.com/arthur-melo/abuseipdb-client/issues/345)) ([c07336a](https://github.com/arthur-melo/abuseipdb-client/commit/c07336aa3c08e7b06332ddaf82bef053a40fac50))
+* **deps-dev:** bump typedoc-plugin-replace-text from 3.1.0 to 3.2.0 ([#347](https://github.com/arthur-melo/abuseipdb-client/issues/347)) ([2a63aa7](https://github.com/arthur-melo/abuseipdb-client/commit/2a63aa7b441d9f4f31e5f8a7bfc65a6b7a51ecb4))
+
 ## [0.1.125](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.124...v0.1.125) (2023-09-02)
 
 
