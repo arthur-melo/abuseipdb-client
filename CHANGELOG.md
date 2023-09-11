@@ -1,3 +1,12 @@
+## [0.1.127](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.126...v0.1.127) (2023-09-11)
+
+
+### Chores
+
+* **deps-dev:** bump rollup from 3.28.1 to 3.29.0 ([#352](https://github.com/arthur-melo/abuseipdb-client/issues/352)) ([42aa0da](https://github.com/arthur-melo/abuseipdb-client/commit/42aa0da70962b6273d6572a2a4d8fc3355fb9d59))
+* **deps-dev:** bump typedoc from 0.24.8 to 0.25.1 ([#350](https://github.com/arthur-melo/abuseipdb-client/issues/350)) ([73cc7ab](https://github.com/arthur-melo/abuseipdb-client/commit/73cc7aba5dad1d751547a59cf974420d61158aed))
+* **deps-dev:** bump typescript from 5.1.6 to 5.2.2 ([#351](https://github.com/arthur-melo/abuseipdb-client/issues/351)) ([30ab16c](https://github.com/arthur-melo/abuseipdb-client/commit/30ab16c1f50d9f85eca6a80dd6a351f91d12728c))
+
 ## [0.1.126](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.125...v0.1.126) (2023-09-07)
 
 
