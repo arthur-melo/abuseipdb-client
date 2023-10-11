@@ -1,3 +1,14 @@
+## [0.1.128](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.127...v0.1.128) (2023-10-11)
+
+
+### Chores
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#357](https://github.com/arthur-melo/abuseipdb-client/issues/357)) ([67e9ebd](https://github.com/arthur-melo/abuseipdb-client/commit/67e9ebdea1d511790244a1f8020f1659f902cbd6))
+* **deps-dev:** bump eslint from 8.48.0 to 8.51.0 ([#366](https://github.com/arthur-melo/abuseipdb-client/issues/366)) ([346940e](https://github.com/arthur-melo/abuseipdb-client/commit/346940ed4146fa708a65bed15aba430f586377a8))
+* **deps-dev:** bump rollup from 3.29.0 to 3.29.4 ([#363](https://github.com/arthur-melo/abuseipdb-client/issues/363)) ([d2ad5e2](https://github.com/arthur-melo/abuseipdb-client/commit/d2ad5e20d7a128f0c3ea6377b9949b989ba6353b))
+* **deps-dev:** bump rollup-plugin-dts from 6.0.1 to 6.1.0 ([#367](https://github.com/arthur-melo/abuseipdb-client/issues/367)) ([556c30d](https://github.com/arthur-melo/abuseipdb-client/commit/556c30d76cfb19bfa0ca0a2516ffb12e5685a04e))
+* **deps:** bump zod from 3.22.2 to 3.22.3 ([#369](https://github.com/arthur-melo/abuseipdb-client/issues/369)) ([2677f31](https://github.com/arthur-melo/abuseipdb-client/commit/2677f3130b37ace04314820eff782b502b5512e4))
+
 ## [0.1.127](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.126...v0.1.127) (2023-09-11)
 
 
