@@ -1,3 +1,11 @@
+## [0.1.129](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.128...v0.1.129) (2024-01-18)
+
+
+### Chores
+
+* **deps-dev:** bump @babel/traverse from 7.20.5 to 7.23.2 ([#376](https://github.com/arthur-melo/abuseipdb-client/issues/376)) ([5c51983](https://github.com/arthur-melo/abuseipdb-client/commit/5c51983e6293b1251c34766f0cf759f373474879))
+* **deps-dev:** bump eslint-plugin-prettier from 5.0.0 to 5.1.2 ([#403](https://github.com/arthur-melo/abuseipdb-client/issues/403)) ([9891b8a](https://github.com/arthur-melo/abuseipdb-client/commit/9891b8a146fa0744ca661a8dff0395a724ef64a1))
+
 ## [0.1.128](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.127...v0.1.128) (2023-10-11)
 
 
