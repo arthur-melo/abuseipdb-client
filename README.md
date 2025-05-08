@@ -166,6 +166,10 @@ $ git clone https://github.com/arthur-melo/abuseipdb-client
 
 Copy the `.env.example` file to `.env`, modifying it with your generated API Key.
 
+```bash
+$ cp .env.example .env
+```
+
 Install dependencies:
 
 ```bash
@@ -180,13 +184,11 @@ $ npm run test
 
 ## Browser Support
 
-This project was built using libraries that allow browser usage, but as of this commit, AbuseIPDB doesn't support [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
+AbuseIPDB does not support CORS, and there are no plans in doing so.
 
-This limits how you can interact with the API, given that you need a proxy server in order to contact the service.
+Quoting from the [official documentation](https://docs.abuseipdb.com/#cross-origin-resource-sharing):
 
-I'm not generating browser bundles at the moment, but I decided to keep the supporting code nevertheless.
-
-I'll keep an eye whether the team behind AbuseIPDB adds support for this use case in the future.
+> CORS headers cannot be set in order to prevent misimplementation. APIv2 keys should be treated as private and are not intented for client side calls.
 
 ## License
 

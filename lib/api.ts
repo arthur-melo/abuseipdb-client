@@ -1,6 +1,4 @@
-import unfetch from 'isomorphic-unfetch';
-import { fileFromSync } from 'fetch-blob/from.js';
-import { FormData } from 'formdata-polyfill/esm.min.js';
+import { readFileSync } from 'node:fs';
 import { z } from 'zod';
 
 import {
@@ -145,7 +143,7 @@ class AbuseIPDBClient {
     };
   }
 
-  #buildResponseHeaders(response: unfetch.IsomorphicResponse): ClientHeaders {
+  #buildResponseHeaders(response: Response): ClientHeaders {
     const headersJson: Partial<ClientHeaders> = {};
 
     // From fetch response.
@@ -173,7 +171,7 @@ class AbuseIPDBClient {
   }
 
   async #formatResponse<T extends APIResponse>(
-    fetchAPIResponse: unfetch.IsomorphicResponse,
+    fetchAPIResponse: Response,
   ): Promise<ClientResponse<T>> {
     const headers = this.#buildResponseHeaders(fetchAPIResponse);
 
@@ -217,8 +215,8 @@ class AbuseIPDBClient {
   async #requestData(
     url: string,
     method: string,
-    headers: HeadersInit,
-    body?: BodyInit,
+    headers: ClientAPIHeaders,
+    body?: FormData,
   ) {
     return fetch(url, {
       method,
@@ -233,7 +231,8 @@ class AbuseIPDBClient {
   ) {
     const { csv } = data;
 
-    const file = fileFromSync(csv);
+    const fileBuffer = readFileSync(csv);
+    const file = new Blob([fileBuffer], { type: 'text/plain' });
 
     const formData = new FormData();
 
@@ -277,7 +276,7 @@ class AbuseIPDBClient {
     // Validates the input parameters given by the client.
     const validatedInput = this.#validateData(parameters, schema);
 
-    let response: unfetch.IsomorphicResponse;
+    let response: Response;
     if (endpointURI === 'bulk-report') {
       // There is no need to append QueryParams for the bulk-report endpoint, so it is removed here.
       const url = this.#formatUrl(endpointURI);
