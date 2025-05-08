@@ -15,16 +15,16 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.18.0, 14.x, 16.x, 18.x]
+        node-version: [lts/Iron]
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
 
@@ -38,7 +38,7 @@ jobs:
         run: npm run test
 
       - name: Upload coverage
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v5
         with:
           directory: ./coverage
           fail_ci_if_error: true
