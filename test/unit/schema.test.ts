@@ -169,7 +169,7 @@ describe('AbuseIPDBClient Unit Tests', () => {
   describe('`bulk-report` schema', () => {
     it('should throw on invalid input.', async () => {
       expect(client.bulkReport('Invalid path')).rejects.toThrow(
-        "ENOENT: no such file or directory, stat 'Invalid path'",
+        "ENOENT: no such file or directory, open 'Invalid path'",
       );
     });
   });

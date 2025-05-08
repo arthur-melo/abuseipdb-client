@@ -9,17 +9,14 @@ const pkg = require('./package.json');
 
 const input = './lib/index.ts';
 
-// Third party libraries, categorized by ESM/CJS compatibility.
-const libraries = {
-  multi: [
-    'zod',
-    'isomorphic-unfetch',
-    'validator/lib/isIP.js',
-    'validator/lib/isIPRange.js',
-    'validator/lib/isISO31661Alpha2.js',
-  ],
-  esmOnly: ['formdata-polyfill/esm.min.js', 'fetch-blob/from.js'],
-};
+// Third party libraries
+const libraries = [
+  'zod',
+  'validator/lib/isIP.js',
+  'validator/lib/isIPRange.js',
+  'validator/lib/isISO31661Alpha2.js',
+  'node:fs',
+];
 
 const config = [
   {
@@ -29,7 +26,7 @@ const config = [
       format: 'cjs',
     },
     plugins: [commonjs(), resolve(), typescript(), bundleSize()],
-    external: libraries.multi,
+    external: libraries,
   },
 
   {
@@ -39,7 +36,7 @@ const config = [
       format: 'esm',
     },
     plugins: [typescript(), bundleSize()],
-    external: [...libraries.multi, ...libraries.esmOnly],
+    external: libraries,
   },
 
   {
