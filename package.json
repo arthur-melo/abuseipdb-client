@@ -35,7 +35,7 @@
     "docs": "typedoc --plugin typedoc-plugin-replace-text",
     "prepublishOnly": "npm run test && npm run build",
     "prepare": "husky",
-    "semantic-release": "semantic-release"
+    "semantic-release": "cross-env HUSKY=0 semantic-release"
   },
   "dependencies": {
     "jsonapi-typescript": "^0.1.3",
