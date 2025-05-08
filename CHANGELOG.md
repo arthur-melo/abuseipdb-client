@@ -1,3 +1,11 @@
+## [1.0.0](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.129...v1.0.0) (2025-05-08)
+
+### ⚠ BREAKING CHANGES
+
+* Using the native fetch and blob implementation requires Node 18 or later.
+
+* Update to native ([#433](https://github.com/arthur-melo/abuseipdb-client/issues/433)) ([9e60deb](https://github.com/arthur-melo/abuseipdb-client/commit/9e60deb12e87b75491dffde80b772fc42e36f75d))
+
 ## [0.1.129](https://github.com/arthur-melo/abuseipdb-client/compare/v0.1.128...v0.1.129) (2024-01-18)
 
 
