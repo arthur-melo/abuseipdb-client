@@ -1,3 +1,13 @@
+## [1.0.5](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.4...v1.0.5) (2025-05-20)
+
+### Chores
+
+* **deps-dev:** bump eslint from 9.26.0 to 9.27.0 ([#443](https://github.com/arthur-melo/abuseipdb-client/issues/443)) ([dab0b31](https://github.com/arthur-melo/abuseipdb-client/commit/dab0b31c713729564f98d9d64e0c197741d2111c))
+* **deps-dev:** bump jest-extended from 4.0.2 to 5.0.1 ([#445](https://github.com/arthur-melo/abuseipdb-client/issues/445)) ([0dfd65c](https://github.com/arthur-melo/abuseipdb-client/commit/0dfd65c3a9a16e97d5380a445b48d55c1f5d0bd1))
+* **deps-dev:** bump rollup from 4.40.2 to 4.41.0 ([#442](https://github.com/arthur-melo/abuseipdb-client/issues/442)) ([5998a65](https://github.com/arthur-melo/abuseipdb-client/commit/5998a65d7fb9c454c867f77673fe2387149f1a2f))
+* **deps-dev:** bump semantic-release from 24.2.3 to 24.2.4 ([#446](https://github.com/arthur-melo/abuseipdb-client/issues/446)) ([4010274](https://github.com/arthur-melo/abuseipdb-client/commit/40102740b40a170b6e5691094466086196a9f4cf))
+* **deps:** bump zod from 3.24.4 to 3.25.3 ([#444](https://github.com/arthur-melo/abuseipdb-client/issues/444)) ([ca711c4](https://github.com/arthur-melo/abuseipdb-client/commit/ca711c41f4bd9ad310ec7b4fd92d2c67ab798e27))
+
 ## [1.0.4](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.3...v1.0.4) (2025-05-17)
 
 ### Chores
