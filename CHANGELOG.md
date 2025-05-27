@@ -1,3 +1,12 @@
+## [1.0.10](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.9...v1.0.10) (2025-05-27)
+
+### Chores
+
+* **deps-dev:** bump rollup from 4.41.0 to 4.41.1 ([#457](https://github.com/arthur-melo/abuseipdb-client/issues/457)) ([09b9c33](https://github.com/arthur-melo/abuseipdb-client/commit/09b9c33e8ac239db400a14ed1b72639ee2fa376e))
+* **deps-dev:** bump semantic-release from 24.2.4 to 24.2.5 ([#458](https://github.com/arthur-melo/abuseipdb-client/issues/458)) ([eabae38](https://github.com/arthur-melo/abuseipdb-client/commit/eabae3808ba2af42936a383b9c9775d945281753))
+* **deps-dev:** bump typedoc from 0.28.4 to 0.28.5 ([#455](https://github.com/arthur-melo/abuseipdb-client/issues/455)) ([7825f94](https://github.com/arthur-melo/abuseipdb-client/commit/7825f94fd772d0e8d7ecba6898d3d74452b90da9))
+* **deps:** bump zod from 3.25.24 to 3.25.28 ([#456](https://github.com/arthur-melo/abuseipdb-client/issues/456)) ([a9ac288](https://github.com/arthur-melo/abuseipdb-client/commit/a9ac288b4af3450fcc2f8e76fba6ac2506220a39))
+
 ## [1.0.9](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.8...v1.0.9) (2025-05-24)
 
 ### Chores
