@@ -1,3 +1,9 @@
+## [1.0.16](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.15...v1.0.16) (2025-06-05)
+
+### Chores
+
+* **deps:** bump zod from 3.25.49 to 3.25.51 ([#475](https://github.com/arthur-melo/abuseipdb-client/issues/475)) ([3a0cfc7](https://github.com/arthur-melo/abuseipdb-client/commit/3a0cfc7e1e573f0d163d207e2092e14f2e209d9d))
+
 ## [1.0.15](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.14...v1.0.15) (2025-06-04)
 
 ### Chores
