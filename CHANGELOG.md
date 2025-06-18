@@ -1,3 +1,13 @@
+## [1.0.22](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.21...v1.0.22) (2025-06-18)
+
+### Chores
+
+* **deps-dev:** bump @types/jest from 29.5.14 to 30.0.0 ([#495](https://github.com/arthur-melo/abuseipdb-client/issues/495)) ([78e9ac2](https://github.com/arthur-melo/abuseipdb-client/commit/78e9ac27b284859974eb40e315292b28c831755d))
+* **deps-dev:** bump @types/validator from 13.15.1 to 13.15.2 ([#497](https://github.com/arthur-melo/abuseipdb-client/issues/497)) ([f0b6970](https://github.com/arthur-melo/abuseipdb-client/commit/f0b69702d93ed6529a22c2080ec693d96de02cd9))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#494](https://github.com/arthur-melo/abuseipdb-client/issues/494)) ([6bf2d69](https://github.com/arthur-melo/abuseipdb-client/commit/6bf2d69647364b3a4dba9f3c629181457f4bc355))
+* **deps-dev:** bump eslint-plugin-jest from 28.13.5 to 28.14.0 ([#496](https://github.com/arthur-melo/abuseipdb-client/issues/496)) ([03a4e37](https://github.com/arthur-melo/abuseipdb-client/commit/03a4e37355b280d8b7e645bae98a22a1171f2567))
+* **deps:** bump zod from 3.25.64 to 3.25.67 ([#499](https://github.com/arthur-melo/abuseipdb-client/issues/499)) ([b562dfa](https://github.com/arthur-melo/abuseipdb-client/commit/b562dfaa2b333d61f5e310fbc4f2b0bd4a6bbaa2))
+
 ## [1.0.21](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.20...v1.0.21) (2025-06-14)
 
 ### Chores
