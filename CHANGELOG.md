@@ -1,3 +1,15 @@
+## [1.0.23](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.22...v1.0.23) (2025-06-21)
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 30.0.0 to 30.0.2 ([#505](https://github.com/arthur-melo/abuseipdb-client/issues/505)) ([9d70b76](https://github.com/arthur-melo/abuseipdb-client/commit/9d70b760859f27817232f30de5e6d5f7c6e5c086))
+* **deps-dev:** bump @rollup/plugin-commonjs from 28.0.3 to 28.0.6 ([#500](https://github.com/arthur-melo/abuseipdb-client/issues/500)) ([f849a04](https://github.com/arthur-melo/abuseipdb-client/commit/f849a0499f4f419aa95e54ad8e1c38fd807064a4))
+* **deps-dev:** bump eslint-plugin-jest from 28.14.0 to 29.0.1 ([#504](https://github.com/arthur-melo/abuseipdb-client/issues/504)) ([9002d6d](https://github.com/arthur-melo/abuseipdb-client/commit/9002d6d889f565a1ad46cb1d0d444280828129ae))
+* **deps-dev:** bump eslint-plugin-prettier from 5.4.1 to 5.5.0 ([#502](https://github.com/arthur-melo/abuseipdb-client/issues/502)) ([019f7d5](https://github.com/arthur-melo/abuseipdb-client/commit/019f7d538a0c47d097145eed599bcdc074c58f5c))
+* **deps-dev:** bump jest from 30.0.0 to 30.0.2 ([#507](https://github.com/arthur-melo/abuseipdb-client/issues/507)) ([a667e29](https://github.com/arthur-melo/abuseipdb-client/commit/a667e292d51ac0938339a36505972c8bbd27d810))
+* **deps-dev:** bump lint-staged from 16.1.0 to 16.1.2 ([#503](https://github.com/arthur-melo/abuseipdb-client/issues/503)) ([b8774da](https://github.com/arthur-melo/abuseipdb-client/commit/b8774dabcaa45a1de6e5c20f8f55cf895bf637b3))
+* **deps-dev:** bump rollup from 4.43.0 to 4.44.0 ([#506](https://github.com/arthur-melo/abuseipdb-client/issues/506)) ([e966d4b](https://github.com/arthur-melo/abuseipdb-client/commit/e966d4b40618dd8d6d0f965bb9b08fad34b47943))
+
 ## [1.0.22](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.21...v1.0.22) (2025-06-18)
 
 ### Chores
