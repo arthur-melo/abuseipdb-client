@@ -1,3 +1,10 @@
+## [1.0.26](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.25...v1.0.26) (2025-06-27)
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 12.0.1 to 12.0.2 ([#515](https://github.com/arthur-melo/abuseipdb-client/issues/515)) ([be72dba](https://github.com/arthur-melo/abuseipdb-client/commit/be72dbae68b5c8cc1f3ce521a04e11df1af9eda0))
+* **deps-dev:** bump rollup from 4.44.0 to 4.44.1 ([#516](https://github.com/arthur-melo/abuseipdb-client/issues/516)) ([d546e03](https://github.com/arthur-melo/abuseipdb-client/commit/d546e03b03e5a0e474124ca78a36833caf21d080))
+
 ## [1.0.25](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.24...v1.0.25) (2025-06-26)
 
 ### Chores
