@@ -1,3 +1,11 @@
+## [1.0.27](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.26...v1.0.27) (2025-06-29)
+
+### Chores
+
+* **deps-dev:** bump dotenv from 16.5.0 to 16.6.1 ([#519](https://github.com/arthur-melo/abuseipdb-client/issues/519)) ([b1cec5d](https://github.com/arthur-melo/abuseipdb-client/commit/b1cec5d97e2f9ea31a31ab847a3441bf665b8b9e))
+* **deps-dev:** bump prettier from 3.6.1 to 3.6.2 ([#517](https://github.com/arthur-melo/abuseipdb-client/issues/517)) ([3fe1824](https://github.com/arthur-melo/abuseipdb-client/commit/3fe1824b00b2cd8b5198587254fea5dd69a037a8))
+* **deps-dev:** bump typedoc from 0.28.5 to 0.28.6 ([#518](https://github.com/arthur-melo/abuseipdb-client/issues/518)) ([01f183f](https://github.com/arthur-melo/abuseipdb-client/commit/01f183f3bb689b47cd1217b2b85608fc5ca5bf2a))
+
 ## [1.0.26](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.25...v1.0.26) (2025-06-27)
 
 ### Chores
