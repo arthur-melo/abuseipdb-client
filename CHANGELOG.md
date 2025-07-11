@@ -1,3 +1,10 @@
+## [1.0.33](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.32...v1.0.33) (2025-07-11)
+
+### Chores
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#540](https://github.com/arthur-melo/abuseipdb-client/issues/540)) ([c8ae532](https://github.com/arthur-melo/abuseipdb-client/commit/c8ae532d46a4c1605ff496b89dacec6ca7e1ef36))
+* **deps-dev:** bump dotenv from 17.1.0 to 17.2.0 ([#538](https://github.com/arthur-melo/abuseipdb-client/issues/538)) ([4809e5c](https://github.com/arthur-melo/abuseipdb-client/commit/4809e5c4ad229efbbdf5c990007d45a702b5e071))
+
 ## [1.0.32](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.31...v1.0.32) (2025-07-09)
 
 ### Chores
