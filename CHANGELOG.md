@@ -1,3 +1,11 @@
+## [1.0.35](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.34...v1.0.35) (2025-07-16)
+
+### Chores
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#545](https://github.com/arthur-melo/abuseipdb-client/issues/545)) ([5955158](https://github.com/arthur-melo/abuseipdb-client/commit/5955158e81b23a49db1c1e56f00e7f794ef0c6de))
+* **deps-dev:** bump rollup from 4.45.0 to 4.45.1 ([#548](https://github.com/arthur-melo/abuseipdb-client/issues/548)) ([05f9035](https://github.com/arthur-melo/abuseipdb-client/commit/05f90358937507d154224570aace9b224a06dbc7))
+* **deps-dev:** bump semantic-release from 24.2.6 to 24.2.7 ([#547](https://github.com/arthur-melo/abuseipdb-client/issues/547)) ([71b2d91](https://github.com/arthur-melo/abuseipdb-client/commit/71b2d912da1e10839eef1d9c470342a3dc801a01))
+
 ## [1.0.34](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.33...v1.0.34) (2025-07-15)
 
 ### Chores
