@@ -1,3 +1,9 @@
+## [1.0.37](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.36...v1.0.37) (2025-07-23)
+
+### Chores
+
+* **deps-dev:** bump eslint-config-prettier from 10.1.7 to 10.1.8 ([#550](https://github.com/arthur-melo/abuseipdb-client/issues/550)) ([a60e72a](https://github.com/arthur-melo/abuseipdb-client/commit/a60e72afedd9e35e6bc8bf885777280818d433ba))
+
 ## [1.0.36](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.35...v1.0.36) (2025-07-19)
 
 ### Chores
