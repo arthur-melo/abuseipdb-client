@@ -1,3 +1,9 @@
+## [1.0.39](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.38...v1.0.39) (2025-08-02)
+
+### Chores
+
+* **deps-dev:** bump dotenv from 17.2.0 to 17.2.1 ([#556](https://github.com/arthur-melo/abuseipdb-client/issues/556)) ([920f4cd](https://github.com/arthur-melo/abuseipdb-client/commit/920f4cd9ba7125aefc2bfb02f156d199c3a79473))
+
 ## [1.0.38](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.37...v1.0.38) (2025-07-26)
 
 ### Chores
