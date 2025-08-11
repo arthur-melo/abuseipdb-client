@@ -211,15 +211,14 @@ describe('AbuseIPDBClient API Tests', () => {
       );
 
       expect(errorResponse).toMatchObject({
-        error: {
-          errors: [
-            {
-              detail:
-                'You can only report the same IP address (`127.0.0.2`) once in 15 minutes.',
-              source: { parameter: 'ip' },
-              status: 403,
-            },
-          ],
+        headers: {
+          status: 429,
+          statusText: 'Too Many Requests',
+        },
+        result: {
+          detail: 'You can only report the same IP address once in 15 minutes.',
+          source: { parameter: 'ip', value: '127.0.0.2' },
+          status: 429,
         },
       });
     });

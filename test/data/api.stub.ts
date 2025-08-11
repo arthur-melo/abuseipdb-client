@@ -28,7 +28,18 @@ const error = {
 const libraryResponseWrapper = (data: unknown) => ({
   headers,
   error: expect.toBeOneOf([expect.toBeNil(), error]),
-  result: expect.toBeOneOf([expect.toBeNil(), data]),
+  result: expect.toBeOneOf([
+    expect.toBeNil(),
+    data,
+    {
+      detail: expect.toBeOneOf([expect.toBeNil(), expect.any(String)]),
+      source: {
+        parameter: expect.any(String),
+        value: expect.any(String),
+      },
+      status: expect.any(Number),
+    },
+  ]),
 });
 
 // Endpoint responses:
