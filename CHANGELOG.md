@@ -1,3 +1,22 @@
+## [2.0.0](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.42...v2.0.0) (2025-08-12)
+
+### ⚠ BREAKING CHANGES
+
+* **api:** If you report duplicate IPs within a 15 minutes time frame, the response object
+sent by the API will be different. The result contains a detail/source/status definition, with the
+code 429, and the headers will also have a statusText as 'Too Many Requests'. There is a sample
+definition on the api test file.
+
+### feat
+
+* **api:** updated duplicate ip report error handling ([#571](https://github.com/arthur-melo/abuseipdb-client/issues/571)) ([8311d4f](https://github.com/arthur-melo/abuseipdb-client/commit/8311d4f184b44c07f6803e42288271611c35149e)), closes [#570](https://github.com/arthur-melo/abuseipdb-client/issues/570) [#568](https://github.com/arthur-melo/abuseipdb-client/issues/568) [#567](https://github.com/arthur-melo/abuseipdb-client/issues/567) [#566](https://github.com/arthur-melo/abuseipdb-client/issues/566)
+
+### Chores
+
+* **deps-dev:** bump cross-env from 7.0.3 to 10.0.0 ([#566](https://github.com/arthur-melo/abuseipdb-client/issues/566)) ([6f6a13e](https://github.com/arthur-melo/abuseipdb-client/commit/6f6a13ed732451a39ae354981572bf16dbf637b3))
+* **deps-dev:** bump eslint-plugin-prettier from 5.5.3 to 5.5.4 ([#568](https://github.com/arthur-melo/abuseipdb-client/issues/568)) ([5e312eb](https://github.com/arthur-melo/abuseipdb-client/commit/5e312eb502734092c98ac4d290becfa04c63bddc))
+* **deps-dev:** bump typescript from 5.8.3 to 5.9.2 ([#567](https://github.com/arthur-melo/abuseipdb-client/issues/567)) ([c780f0a](https://github.com/arthur-melo/abuseipdb-client/commit/c780f0a2509e4f2aceea146c9c820097f23033a3))
+
 ## [1.0.42](https://github.com/arthur-melo/abuseipdb-client/compare/v1.0.41...v1.0.42) (2025-08-07)
 
 ### Chores
