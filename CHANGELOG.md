@@ -1,3 +1,16 @@
+## [2.0.7](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.6...v2.0.7) (2025-09-04)
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 30.1.1 to 30.1.2 ([#598](https://github.com/arthur-melo/abuseipdb-client/issues/598)) ([946fe70](https://github.com/arthur-melo/abuseipdb-client/commit/946fe70abe8bd4939221103e6cc457d3eac5a381))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#604](https://github.com/arthur-melo/abuseipdb-client/issues/604)) ([8129cdd](https://github.com/arthur-melo/abuseipdb-client/commit/8129cdd07a17d9d5c06ab9ab27940d0e5cae2f5a))
+* **deps-dev:** bump @typescript-eslint/parser from 8.41.0 to 8.42.0 ([#603](https://github.com/arthur-melo/abuseipdb-client/issues/603)) ([f9472a1](https://github.com/arthur-melo/abuseipdb-client/commit/f9472a187f2abe4668159fd5e62fc1cd157e08c6))
+* **deps-dev:** bump dotenv from 17.2.1 to 17.2.2 ([#606](https://github.com/arthur-melo/abuseipdb-client/issues/606)) ([2dd6dc0](https://github.com/arthur-melo/abuseipdb-client/commit/2dd6dc06a347a586d23848c3d0078158d3ce5ec4))
+* **deps-dev:** bump jest from 30.1.1 to 30.1.3 ([#602](https://github.com/arthur-melo/abuseipdb-client/issues/602)) ([f578440](https://github.com/arthur-melo/abuseipdb-client/commit/f578440352cfa9a19813def0719480be280252ac))
+* **deps-dev:** bump lint-staged from 16.1.2 to 16.1.6 ([#600](https://github.com/arthur-melo/abuseipdb-client/issues/600)) ([ffd2323](https://github.com/arthur-melo/abuseipdb-client/commit/ffd2323a160e408a3782c6e5389e162c67616e4e))
+* **deps-dev:** bump rollup from 4.49.0 to 4.50.0 ([#605](https://github.com/arthur-melo/abuseipdb-client/issues/605)) ([eb0b808](https://github.com/arthur-melo/abuseipdb-client/commit/eb0b808c22952686f0df423877d6bc4ba0af0cd0))
+* **deps-dev:** bump typedoc from 0.28.11 to 0.28.12 ([#601](https://github.com/arthur-melo/abuseipdb-client/issues/601)) ([33c2993](https://github.com/arthur-melo/abuseipdb-client/commit/33c2993fb9a00f2ff3fd21454d6d5f2cc3858f12))
+
 ## [2.0.6](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.5...v2.0.6) (2025-08-31)
 
 ### Chores
