@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.7...v2.0.8) (2025-09-06)
+
+### Chores
+
+* **deps-dev:** bump @types/validator from 13.15.2 to 13.15.3 ([#607](https://github.com/arthur-melo/abuseipdb-client/issues/607)) ([2f91f14](https://github.com/arthur-melo/abuseipdb-client/commit/2f91f14c9593f6a5e9047c42609fc26f8705b09b))
+* **deps-dev:** bump eslint from 9.34.0 to 9.35.0 ([#608](https://github.com/arthur-melo/abuseipdb-client/issues/608)) ([8880c52](https://github.com/arthur-melo/abuseipdb-client/commit/8880c525bce68cb25f613cd6cab699be22833746))
+
 ## [2.0.7](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.6...v2.0.7) (2025-09-04)
 
 ### Chores
