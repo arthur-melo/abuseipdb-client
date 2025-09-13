@@ -1,3 +1,9 @@
+## [2.0.11](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.10...v2.0.11) (2025-09-13)
+
+### Chores
+
+* **deps-dev:** bump semantic-release from 24.2.7 to 24.2.8 ([#612](https://github.com/arthur-melo/abuseipdb-client/issues/612)) ([88b83d7](https://github.com/arthur-melo/abuseipdb-client/commit/88b83d7381abb85ccae05f43a839f5be730d210f))
+
 ## [2.0.10](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.9...v2.0.10) (2025-09-11)
 
 ### Chores
