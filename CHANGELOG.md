@@ -1,3 +1,16 @@
+## [2.0.19](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.18...v2.0.19) (2025-10-01)
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 30.1.2 to 30.2.0 ([#633](https://github.com/arthur-melo/abuseipdb-client/issues/633)) ([5210735](https://github.com/arthur-melo/abuseipdb-client/commit/521073554132b6f3e65ae81fb716839892bfe1c6))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#631](https://github.com/arthur-melo/abuseipdb-client/issues/631)) ([46518c2](https://github.com/arthur-melo/abuseipdb-client/commit/46518c2d48e384c417c615b5fda9405f06abc7fd))
+* **deps-dev:** bump @typescript-eslint/parser from 8.44.1 to 8.45.0 ([#634](https://github.com/arthur-melo/abuseipdb-client/issues/634)) ([61906bf](https://github.com/arthur-melo/abuseipdb-client/commit/61906bf02b24d53def41f713a6d1083677983eed))
+* **deps-dev:** bump cross-env from 10.0.0 to 10.1.0 ([#638](https://github.com/arthur-melo/abuseipdb-client/issues/638)) ([8591efd](https://github.com/arthur-melo/abuseipdb-client/commit/8591efd1e7c645a42ae680ae6d7a4824d1313f3e))
+* **deps-dev:** bump dotenv from 17.2.2 to 17.2.3 ([#637](https://github.com/arthur-melo/abuseipdb-client/issues/637)) ([3e6a93b](https://github.com/arthur-melo/abuseipdb-client/commit/3e6a93bcd37e8fb8b1fc09a245085d977122d89b))
+* **deps-dev:** bump jest from 30.1.3 to 30.2.0 ([#636](https://github.com/arthur-melo/abuseipdb-client/issues/636)) ([334b9cc](https://github.com/arthur-melo/abuseipdb-client/commit/334b9cc3fc62dac4e56cbfdd1352ac8240e95f5f))
+* **deps-dev:** bump lint-staged from 16.2.1 to 16.2.3 ([#632](https://github.com/arthur-melo/abuseipdb-client/issues/632)) ([009b137](https://github.com/arthur-melo/abuseipdb-client/commit/009b1371e632b86b4e109de424f964f15b16bbc4))
+* **deps-dev:** bump rollup from 4.52.2 to 4.52.3 ([#635](https://github.com/arthur-melo/abuseipdb-client/issues/635)) ([b518e2f](https://github.com/arthur-melo/abuseipdb-client/commit/b518e2f842a9f8de182f663fc919e2cc731cd19a))
+
 ## [2.0.18](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.17...v2.0.18) (2025-09-28)
 
 ### Chores
