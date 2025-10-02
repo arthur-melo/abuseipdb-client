@@ -1,6 +1,6 @@
 {
   "name": "abuseipdb-client",
-  "version": "2.0.19",
+  "version": "2.0.20",
   "private": false,
   "description": "AbuseIPDB Node.js API client.",
   "author": "Arthur Melo <contact@arthurmelo.com>",
