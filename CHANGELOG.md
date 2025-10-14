@@ -1,3 +1,9 @@
+## [2.0.23](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.22...v2.0.23) (2025-10-14)
+
+### Chores
+
+* **deps-dev:** bump ts-jest from 29.4.4 to 29.4.5 ([#646](https://github.com/arthur-melo/abuseipdb-client/issues/646)) ([8902a13](https://github.com/arthur-melo/abuseipdb-client/commit/8902a13efb6355ea2c7ef5efc1d7874bcb7499b2))
+
 ## [2.0.22](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.21...v2.0.22) (2025-10-10)
 
 ### Chores
