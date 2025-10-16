@@ -74,7 +74,7 @@
     "rollup-plugin-bundle-size": "^1.0.3",
     "rollup-plugin-dts": "^6.2.1",
     "rollup-plugin-typescript2": "^0.36.0",
-    "semantic-release": "^24.2.3",
+    "semantic-release": "^25.0.0",
     "ts-jest": "^29.3.2",
     "ts-node": "^10.9.2",
     "tslib": "^2.8.1",
