@@ -1,3 +1,16 @@
+## [2.0.24](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.23...v2.0.24) (2025-10-21)
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-commonjs from 28.0.6 to 28.0.8 ([#652](https://github.com/arthur-melo/abuseipdb-client/issues/652)) ([06f279c](https://github.com/arthur-melo/abuseipdb-client/commit/06f279c99d9ccc149ff7787753d390cb39e51794))
+* **deps-dev:** bump @rollup/plugin-node-resolve from 16.0.2 to 16.0.3 ([#650](https://github.com/arthur-melo/abuseipdb-client/issues/650)) ([926025e](https://github.com/arthur-melo/abuseipdb-client/commit/926025e3842a9a85a93005916e6877804cf37c36))
+* **deps-dev:** bump @semantic-release/npm from 12.0.2 to 13.0.0 ([#651](https://github.com/arthur-melo/abuseipdb-client/issues/651)) ([27a30ef](https://github.com/arthur-melo/abuseipdb-client/commit/27a30efd93c02906682031e78d3f5fd77c794016))
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#647](https://github.com/arthur-melo/abuseipdb-client/issues/647)) ([8e8fbde](https://github.com/arthur-melo/abuseipdb-client/commit/8e8fbdeeb8cf7f1246afb3fc2a1dbc1378f3eb76))
+* **deps-dev:** bump @typescript-eslint/parser from 8.46.0 to 8.46.1 ([#648](https://github.com/arthur-melo/abuseipdb-client/issues/648)) ([31c5033](https://github.com/arthur-melo/abuseipdb-client/commit/31c5033d7ede226c32019d173b225ab83d879b62))
+* **deps-dev:** bump lint-staged from 16.2.3 to 16.2.4 ([#653](https://github.com/arthur-melo/abuseipdb-client/issues/653)) ([9c4e148](https://github.com/arthur-melo/abuseipdb-client/commit/9c4e1480ee0c4bb02b6362ecf7345b1425336fd9))
+* **deps-dev:** bump semantic-release from 24.2.9 to 25.0.0 ([#654](https://github.com/arthur-melo/abuseipdb-client/issues/654)) ([03ccfcc](https://github.com/arthur-melo/abuseipdb-client/commit/03ccfcc9f764e586dd521cde2d5f76177271ec55))
+* **deps-dev:** bump typedoc from 0.28.13 to 0.28.14 ([#649](https://github.com/arthur-melo/abuseipdb-client/issues/649)) ([7cd407c](https://github.com/arthur-melo/abuseipdb-client/commit/7cd407c7db529862126623ce356db6220ff59d0e))
+
 ## [2.0.23](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.22...v2.0.23) (2025-10-14)
 
 ### Chores
