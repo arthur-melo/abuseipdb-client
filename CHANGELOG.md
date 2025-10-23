@@ -1,3 +1,9 @@
+## [2.0.26](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.25...v2.0.26) (2025-10-23)
+
+### Chores
+
+* **deps-dev:** bump lint-staged from 16.2.5 to 16.2.6 ([#663](https://github.com/arthur-melo/abuseipdb-client/issues/663)) ([02f518f](https://github.com/arthur-melo/abuseipdb-client/commit/02f518fb8fb78268985af98a6fe58c00f2928d3e))
+
 ## [2.0.25](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.24...v2.0.25) (2025-10-22)
 
 ### Chores
