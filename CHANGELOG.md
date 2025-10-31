@@ -1,3 +1,9 @@
+## [2.0.28](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.27...v2.0.28) (2025-10-31)
+
+### Chores
+
+* **deps:** bump validator from 13.15.15 to 13.15.20 ([#665](https://github.com/arthur-melo/abuseipdb-client/issues/665)) ([02a039f](https://github.com/arthur-melo/abuseipdb-client/commit/02a039f64bf4bd6ebb8bbc10ef3a65b232251b65))
+
 ## [2.0.27](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.26...v2.0.27) (2025-10-25)
 
 ### Chores
