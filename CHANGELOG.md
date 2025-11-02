@@ -1,3 +1,11 @@
+## [2.0.29](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.28...v2.0.29) (2025-11-02)
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-commonjs from 28.0.9 to 29.0.0 ([#666](https://github.com/arthur-melo/abuseipdb-client/issues/666)) ([9b4abea](https://github.com/arthur-melo/abuseipdb-client/commit/9b4abea276d0927fec788a196e6f2d4ea1d6cd2a))
+* **deps-dev:** bump @types/validator from 13.15.3 to 13.15.4 ([#667](https://github.com/arthur-melo/abuseipdb-client/issues/667)) ([63c7211](https://github.com/arthur-melo/abuseipdb-client/commit/63c7211751a5d77d84ec0ec5b8523216aed451b1))
+* **deps-dev:** bump rimraf from 6.0.1 to 6.1.0 ([#668](https://github.com/arthur-melo/abuseipdb-client/issues/668)) ([4455b0d](https://github.com/arthur-melo/abuseipdb-client/commit/4455b0d0e315dbf66c59f304197bd8ba90755fe3))
+
 ## [2.0.28](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.27...v2.0.28) (2025-10-31)
 
 ### Chores
