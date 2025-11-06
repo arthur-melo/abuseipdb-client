@@ -65,7 +65,7 @@
     "husky": "^9.1.7",
     "is-ci": "^4.1.0",
     "jest": "^30.0.0",
-    "jest-extended": "^6.0.0",
+    "jest-extended": "^7.0.0",
     "jest-fetch-mock": "^3.0.3",
     "lint-staged": "^16.0.0",
     "prettier": "^3.5.3",
