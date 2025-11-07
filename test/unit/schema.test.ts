@@ -21,13 +21,13 @@ describe('AbuseIPDBClient Unit Tests', () => {
         client.check(validIP, {
           maxAgeInDays: -1,
         }),
-      ).rejects.toThrow('Number must be greater than or equal to 1');
+      ).rejects.toThrow('Too small: expected number to be >=1');
 
       expect(
         client.check(validIP, {
           maxAgeInDays: 366,
         }),
-      ).rejects.toThrow('Number must be less than or equal to 365');
+      ).rejects.toThrow('Too big: expected number to be <=365');
     });
   });
 
@@ -43,19 +43,19 @@ describe('AbuseIPDBClient Unit Tests', () => {
           page: -1,
           perPage: -1,
         }),
-      ).rejects.toThrow('Number must be greater than or equal to 1');
+      ).rejects.toThrow('Too small: expected number to be >=1');
 
       expect(
         client.reports(validIP, {
           maxAgeInDays: 366,
         }),
-      ).rejects.toThrow('Number must be less than or equal to 365');
+      ).rejects.toThrow('Too big: expected number to be <=365');
 
       expect(
         client.reports(validIP, {
           perPage: 101,
         }),
-      ).rejects.toThrow('Number must be less than or equal to 100');
+      ).rejects.toThrow('Too big: expected number to be <=100');
     });
   });
 
@@ -65,25 +65,25 @@ describe('AbuseIPDBClient Unit Tests', () => {
         client.blacklist({
           confidenceMinimum: 24,
         }),
-      ).rejects.toThrow('Number must be greater than or equal to 25');
+      ).rejects.toThrow('Too small: expected number to be >=25');
 
       expect(
         client.blacklist({
           limit: -1,
         }),
-      ).rejects.toThrow('Number must be greater than or equal to 1');
+      ).rejects.toThrow('Too small: expected number to be >=1');
 
       expect(
         client.blacklist({
           confidenceMinimum: 101,
         }),
-      ).rejects.toThrow('Number must be less than or equal to 100');
+      ).rejects.toThrow('Too big: expected number to be <=100');
 
       expect(
         client.blacklist({
           limit: 500001,
         }),
-      ).rejects.toThrow('Number must be less than or equal to 500000');
+      ).rejects.toThrow('Too big: expected number to be <=500000');
 
       expect(
         client.blacklist({
@@ -135,16 +135,16 @@ describe('AbuseIPDBClient Unit Tests', () => {
       );
 
       expect(client.report(validIP, [])).rejects.toThrow(
-        'Array must contain at least 1 element(s)',
+        'Too small: expected array to have >=1 items',
       );
 
       expect(client.report(validIP, Array(30 + 1).fill(1))).rejects.toThrow(
-        'Array must contain at most 30 element(s)',
+        'Too big: expected array to have <=30 items',
       );
 
       expect(
         client.report(validIP, [1], { comment: Array(1025 + 1).toString() }),
-      ).rejects.toThrow('String must contain at most 1024 character(s)');
+      ).rejects.toThrow('Too big: expected string to have <=1024 characters');
     });
   });
 
@@ -158,11 +158,11 @@ describe('AbuseIPDBClient Unit Tests', () => {
 
       expect(
         client.checkBlock(validCIDR, { maxAgeInDays: -1 }),
-      ).rejects.toThrow('Number must be greater than or equal to 1');
+      ).rejects.toThrow('Too small: expected number to be >=1');
 
       expect(
         client.checkBlock(validCIDR, { maxAgeInDays: 366 }),
-      ).rejects.toThrow('Number must be less than or equal to 365');
+      ).rejects.toThrow('Too big: expected number to be <=365');
     });
   });
 

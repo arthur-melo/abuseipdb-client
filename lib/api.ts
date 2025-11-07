@@ -248,7 +248,10 @@ class AbuseIPDBClient {
     const url = new URL(`${this.#url}/${uri}`);
 
     for (const key of Object.keys(params ?? {})) {
-      url.searchParams.append(key, params?.[key]);
+      const value = (params as Record<string, unknown>)[key];
+      if (value !== undefined && value !== null) {
+        url.searchParams.append(key, String(value));
+      }
     }
 
     return url.href;

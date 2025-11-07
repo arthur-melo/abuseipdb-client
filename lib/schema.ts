@@ -4,23 +4,6 @@ import isIPRange from 'validator/lib/isIPRange.js';
 
 import { isArrISO31661Alpha2 } from './validators.js';
 
-/**
- * Removes a boolean query string parameter when its value is set to `false`.
- * Currently, the AbuseIPDB's API treats boolean query strings as `true` regardless of its value,
- * this function filter those values in order to return the right response.
- * The `Check` and `Blacklist` as text endpoints have such booleans.
- */
-const filterBooleanAPIQueryStrings = <T extends z.ZodTypeAny>(
-  schema: z.infer<T>,
-  parameter: string,
-) => {
-  const newSchema = { ...schema };
-  if (schema[parameter] === false) {
-    delete newSchema[parameter];
-  }
-  return newSchema;
-};
-
 const abuseIPDBClientRequiredSchema = z.object({
   /** Client API Key, must be generated at AbuseIPDB's client dashboard. */
   apiKey: z.string().min(1),
@@ -44,8 +27,8 @@ interface AbuseIPDBClientOptions
 /**
  * @group Input - Validator
  */
-const abuseIPDBClientSchema = abuseIPDBClientRequiredSchema.merge(
-  abuseIPDBClientOptionsSchema,
+const abuseIPDBClientSchema = abuseIPDBClientRequiredSchema.extend(
+  abuseIPDBClientOptionsSchema.shape,
 );
 
 const abuseIPDBClientConfigSchema = z.object({
@@ -89,8 +72,21 @@ interface CheckOptions extends z.TypeOf<typeof checkOptionsSchema> {}
  * @group Input - Validator
  */
 const checkSchema = checkRequiredSchema
-  .merge(checkOptionsSchema)
-  .transform(schema => filterBooleanAPIQueryStrings(schema, 'verbose'));
+  .extend(checkOptionsSchema.shape)
+  .transform(schema => {
+    /**
+     * Removes a boolean query string parameter when its value is set to `false`.
+     * Currently, the AbuseIPDB's API treats boolean query strings as `true` regardless of its value,
+     * this function filter those values in order to return the right response.
+     * The `Check` and `Blacklist` as text endpoints have such booleans.
+     */
+    const newSchema = { ...schema };
+    if (schema['verbose'] === false) {
+      delete newSchema['verbose'];
+    }
+
+    return newSchema;
+  });
 
 const reportsRequiredSchema = z.object({
   /** Single IPv4/IPv6 address. */
@@ -119,7 +115,7 @@ interface ReportsOptions extends z.infer<typeof reportsOptionsSchema> {}
 /**
  * @group Input - Validator
  */
-const reportsSchema = reportsRequiredSchema.merge(reportsOptionsSchema);
+const reportsSchema = reportsRequiredSchema.extend(reportsOptionsSchema.shape);
 
 const blacklistOptionsSchema = z.object({
   /** Minimum confidence percentage value. Accepted values between 25 and 100, defaults to `100` by the API. Requires a subscription to use this feature.   */
@@ -149,7 +145,20 @@ const blacklistOptionsSchema = z.object({
  * @group Input - Validator
  */
 const blacklistSchema = blacklistOptionsSchema
-  .transform(schema => filterBooleanAPIQueryStrings(schema, 'plaintext'))
+  .transform(schema => {
+    /**
+     * Removes a boolean query string parameter when its value is set to `false`.
+     * Currently, the AbuseIPDB's API treats boolean query strings as `true` regardless of its value,
+     * this function filter those values in order to return the right response.
+     * The `Check` and `Blacklist` as text endpoints have such booleans.
+     */
+    const newSchema = { ...schema };
+    if (schema['plaintext'] === false) {
+      delete newSchema['plaintext'];
+    }
+
+    return newSchema;
+  })
   .superRefine((schemaValues: z.infer<typeof blacklistOptionsSchema>, ctx) => {
     // Countries declaration are optional, skip validation if this is the case.
     if (!(schemaValues.onlyCountries ?? schemaValues.exceptCountries)) {
@@ -158,7 +167,7 @@ const blacklistSchema = blacklistOptionsSchema
 
     if (schemaValues.onlyCountries && schemaValues.exceptCountries) {
       ctx.addIssue({
-        code: z.ZodIssueCode.custom,
+        code: 'custom',
         message:
           '`exceptCountries` and `onlyCountries` are mutually exclusive, only one can be defined at a time.',
       });
@@ -178,9 +187,9 @@ const blacklistSchema = blacklistOptionsSchema
 
       if (countriesArr.length === 0) {
         ctx.addIssue({
-          code: z.ZodIssueCode.too_small,
+          code: 'too_small',
+          origin: 'number',
           minimum: 1,
-          type: 'array',
           inclusive: true,
           message: `[${countryParam}] Atleast one country must be specified.`,
         });
@@ -190,7 +199,7 @@ const blacklistSchema = blacklistOptionsSchema
 
       if (!isArrISO31661Alpha2(countriesArr)) {
         ctx.addIssue({
-          code: z.ZodIssueCode.custom,
+          code: 'custom',
           message: `[${countryParam}] Countries must be valid ISO 3166-1 Alpha-2 codes.`,
         });
       }
@@ -224,7 +233,7 @@ interface ReportOptions extends z.TypeOf<typeof reportOptionsSchema> {}
 /**
  * @group Input - Validator
  */
-const reportSchema = reportRequiredSchema.merge(reportOptionsSchema);
+const reportSchema = reportRequiredSchema.extend(reportOptionsSchema.shape);
 
 const checkBlockRequiredSchema = z.object({
   /**
@@ -253,8 +262,8 @@ interface CheckBlockOptions extends z.TypeOf<typeof checkBlockOptionsSchema> {}
 /**
  * @group Input - Validator
  */
-const checkBlockSchema = checkBlockRequiredSchema.merge(
-  checkBlockOptionsSchema,
+const checkBlockSchema = checkBlockRequiredSchema.extend(
+  checkBlockOptionsSchema.shape,
 );
 
 const bulkReportRequiredSchema = z.object({
