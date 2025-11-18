@@ -1,3 +1,9 @@
+## [2.0.38](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.37...v2.0.38) (2025-11-18)
+
+### Chores
+
+* **deps-dev:** bump js-yaml from 3.14.1 to 3.14.2 ([#683](https://github.com/arthur-melo/abuseipdb-client/issues/683)) ([c3182b8](https://github.com/arthur-melo/abuseipdb-client/commit/c3182b8fed7d5e8b073bc52a4fca62fee6793d08))
+
 ## [2.0.37](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.36...v2.0.37) (2025-11-15)
 
 ### Chores
