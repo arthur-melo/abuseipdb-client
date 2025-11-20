@@ -1,3 +1,11 @@
+## [2.0.40](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.39...v2.0.40) (2025-11-20)
+
+### Chores
+
+* **deps-dev:** bump lint-staged from 16.2.6 to 16.2.7 ([#690](https://github.com/arthur-melo/abuseipdb-client/issues/690)) ([33fc091](https://github.com/arthur-melo/abuseipdb-client/commit/33fc091a9b3e22367d70d932cd6b17bc8cf43bd6))
+* **deps-dev:** bump rimraf from 6.1.0 to 6.1.2 ([#688](https://github.com/arthur-melo/abuseipdb-client/issues/688)) ([0c18251](https://github.com/arthur-melo/abuseipdb-client/commit/0c18251e39c6ae1437fc4fe06c3609297fd41ce1))
+* **deps-dev:** bump rollup from 4.53.2 to 4.53.3 ([#689](https://github.com/arthur-melo/abuseipdb-client/issues/689)) ([a92a002](https://github.com/arthur-melo/abuseipdb-client/commit/a92a002b6c345acd57d0ae0c53af5e8cba724d00))
+
 ## [2.0.39](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.38...v2.0.39) (2025-11-19)
 
 ### Chores
