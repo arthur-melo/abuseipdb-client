@@ -1,3 +1,9 @@
+## [2.0.41](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.40...v2.0.41) (2025-11-22)
+
+### Chores
+
+* **deps-dev:** bump eslint-plugin-jest from 29.1.0 to 29.2.0 ([#691](https://github.com/arthur-melo/abuseipdb-client/issues/691)) ([fd06c25](https://github.com/arthur-melo/abuseipdb-client/commit/fd06c254509524435409a1ef4f2671e9c6b97ba1))
+
 ## [2.0.40](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.39...v2.0.40) (2025-11-20)
 
 ### Chores
