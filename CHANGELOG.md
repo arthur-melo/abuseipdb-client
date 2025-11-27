@@ -1,3 +1,9 @@
+## [2.0.43](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.42...v2.0.43) (2025-11-27)
+
+### Chores
+
+* **deps-dev:** bump rollup-plugin-dts from 6.2.3 to 6.3.0 ([#696](https://github.com/arthur-melo/abuseipdb-client/issues/696)) ([d08c2e9](https://github.com/arthur-melo/abuseipdb-client/commit/d08c2e9945a1e20558b3bf24e1ad64e925b73718))
+
 ## [2.0.42](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.41...v2.0.42) (2025-11-26)
 
 ### Chores
