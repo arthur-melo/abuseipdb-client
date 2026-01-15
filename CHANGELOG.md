@@ -1,3 +1,9 @@
+## [2.0.56](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.55...v2.0.56) (2026-01-15)
+
+### Chores
+
+* **deps-dev:** bump eslint-plugin-prettier from 5.5.4 to 5.5.5 ([#739](https://github.com/arthur-melo/abuseipdb-client/issues/739)) ([2f3db6e](https://github.com/arthur-melo/abuseipdb-client/commit/2f3db6ed9204a9120545cdcc359a290c0ce61133))
+
 ## [2.0.55](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.54...v2.0.55) (2026-01-13)
 
 ### Chores
