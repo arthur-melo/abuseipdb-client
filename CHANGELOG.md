@@ -1,3 +1,12 @@
+## [2.0.59](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.58...v2.0.59) (2026-01-22)
+
+### Chores
+
+* **deps-dev:** bump lodash-es from 4.17.21 to 4.17.23 ([#746](https://github.com/arthur-melo/abuseipdb-client/issues/746)) ([11c257e](https://github.com/arthur-melo/abuseipdb-client/commit/11c257e85288ba5beb34550f7a9a72702bbeab86))
+* **deps-dev:** bump prettier from 3.8.0 to 3.8.1 ([#744](https://github.com/arthur-melo/abuseipdb-client/issues/744)) ([78638ec](https://github.com/arthur-melo/abuseipdb-client/commit/78638ec57cc7775b7acc32af954c9c64adfda9b8))
+* **deps-dev:** bump rollup from 4.55.2 to 4.55.3 ([#745](https://github.com/arthur-melo/abuseipdb-client/issues/745)) ([dbaf819](https://github.com/arthur-melo/abuseipdb-client/commit/dbaf819941126e2cf006f4de07cbc0db5164be94))
+* **deps:** bump tar and npm ([#747](https://github.com/arthur-melo/abuseipdb-client/issues/747)) ([2c51053](https://github.com/arthur-melo/abuseipdb-client/commit/2c510533755f24d7b73d12667745d267db756d3d))
+
 ## [2.0.58](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.57...v2.0.58) (2026-01-21)
 
 ### Chores
