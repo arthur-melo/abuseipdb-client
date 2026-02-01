@@ -1,3 +1,9 @@
+## [2.0.63](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.62...v2.0.63) (2026-02-01)
+
+### Chores
+
+* **deps-dev:** bump rollup from 4.57.0 to 4.57.1 ([#753](https://github.com/arthur-melo/abuseipdb-client/issues/753)) ([f51c2f8](https://github.com/arthur-melo/abuseipdb-client/commit/f51c2f860524471714bc7c80e30f77f741808754))
+
 ## [2.0.62](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.61...v2.0.62) (2026-01-30)
 
 ### Chores
