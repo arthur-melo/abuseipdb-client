@@ -1,3 +1,11 @@
+## [2.0.68](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.67...v2.0.68) (2026-02-15)
+
+### Chores
+
+* **deps-dev:** bump dotenv from 17.2.4 to 17.3.1 ([#764](https://github.com/arthur-melo/abuseipdb-client/issues/764)) ([883f95e](https://github.com/arthur-melo/abuseipdb-client/commit/883f95ea84772b0808d08dbccf930ee85913159c))
+* **deps-dev:** bump eslint-plugin-jest from 29.13.0 to 29.14.0 ([#763](https://github.com/arthur-melo/abuseipdb-client/issues/763)) ([ff57e55](https://github.com/arthur-melo/abuseipdb-client/commit/ff57e55542ba38bc2e42a7ddfa6eaedba31ec176))
+* **deps-dev:** bump typedoc from 0.28.16 to 0.28.17 ([#762](https://github.com/arthur-melo/abuseipdb-client/issues/762)) ([ed5ded2](https://github.com/arthur-melo/abuseipdb-client/commit/ed5ded242f5743b530a8ba9367dab2ede8b2888b))
+
 ## [2.0.67](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.66...v2.0.67) (2026-02-11)
 
 ### Chores
