@@ -1,3 +1,9 @@
+## [2.0.70](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.69...v2.0.70) (2026-02-18)
+
+### Chores
+
+* **deps-dev:** bump eslint from 9.39.2 to 10.0.0 ([#757](https://github.com/arthur-melo/abuseipdb-client/issues/757)) ([e5cee96](https://github.com/arthur-melo/abuseipdb-client/commit/e5cee963024d5cae3cb43f926ecf508e46ccab5c))
+
 ## [2.0.69](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.68...v2.0.69) (2026-02-17)
 
 ### Chores
