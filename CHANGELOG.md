@@ -1,3 +1,12 @@
+## [2.0.74](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.73...v2.0.74) (2026-03-04)
+
+### Chores
+
+* **deps-dev:** bump @semantic-release/npm from 13.1.4 to 13.1.5 ([#777](https://github.com/arthur-melo/abuseipdb-client/issues/777)) ([be12701](https://github.com/arthur-melo/abuseipdb-client/commit/be1270130971f2dfffd4f78569af9285f725c906))
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#775](https://github.com/arthur-melo/abuseipdb-client/issues/775)) ([5eea3ff](https://github.com/arthur-melo/abuseipdb-client/commit/5eea3ff0b140b70fab3e7c1c079b17292baf75d6))
+* **deps-dev:** bump lint-staged from 16.2.7 to 16.3.1 ([#776](https://github.com/arthur-melo/abuseipdb-client/issues/776)) ([04afe6f](https://github.com/arthur-melo/abuseipdb-client/commit/04afe6f960d98fd38746352fd6ccd08ef8b2acab))
+* **deps-dev:** bump lint-staged from 16.3.1 to 16.3.2 ([#778](https://github.com/arthur-melo/abuseipdb-client/issues/778)) ([3fced15](https://github.com/arthur-melo/abuseipdb-client/commit/3fced15be54d0b2c738df954243a0398d1db9e03))
+
 ## [2.0.73](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.72...v2.0.73) (2026-02-26)
 
 ### Chores
