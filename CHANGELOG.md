@@ -1,3 +1,10 @@
+## [2.0.75](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.74...v2.0.75) (2026-03-06)
+
+### Chores
+
+* **deps-dev:** bump @rollup/plugin-commonjs from 29.0.0 to 29.0.1 ([#780](https://github.com/arthur-melo/abuseipdb-client/issues/780)) ([2fe8c8d](https://github.com/arthur-melo/abuseipdb-client/commit/2fe8c8d0c7472902acf6f2568d98c481cc6acfda))
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#779](https://github.com/arthur-melo/abuseipdb-client/issues/779)) ([141acff](https://github.com/arthur-melo/abuseipdb-client/commit/141acff23b3744a99bdea05cd68e83ba7c3bfb2c))
+
 ## [2.0.74](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.73...v2.0.74) (2026-03-04)
 
 ### Chores
