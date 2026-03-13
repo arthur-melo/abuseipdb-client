@@ -1,3 +1,12 @@
+## [2.0.78](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.77...v2.0.78) (2026-03-13)
+
+### Chores
+
+* **deps-dev:** bump @jest/globals from 30.2.0 to 30.3.0 ([#786](https://github.com/arthur-melo/abuseipdb-client/issues/786)) ([93a0260](https://github.com/arthur-melo/abuseipdb-client/commit/93a02606cab5220219df47ee552169d6dfd5c492))
+* **deps-dev:** bump jest from 30.2.0 to 30.3.0 ([#785](https://github.com/arthur-melo/abuseipdb-client/issues/785)) ([9a9258a](https://github.com/arthur-melo/abuseipdb-client/commit/9a9258a4331e7ade8365dc4e090fc1c20163a1d4))
+* **deps-dev:** bump lint-staged from 16.3.2 to 16.3.3 ([#787](https://github.com/arthur-melo/abuseipdb-client/issues/787)) ([58fae3b](https://github.com/arthur-melo/abuseipdb-client/commit/58fae3b76dae800026f83dce190d5f7bdce95cb4))
+* **deps:** bump tar and npm ([#788](https://github.com/arthur-melo/abuseipdb-client/issues/788)) ([0f704bc](https://github.com/arthur-melo/abuseipdb-client/commit/0f704bc9b7b3cb056bf8f08bfa1ce2a17a1fcf0a))
+
 ## [2.0.77](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.76...v2.0.77) (2026-03-11)
 
 ### Chores
