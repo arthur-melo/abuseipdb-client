@@ -1,3 +1,10 @@
+## [2.0.79](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.78...v2.0.79) (2026-03-14)
+
+### Chores
+
+* **deps-dev:** bump rollup-plugin-dts from 6.3.0 to 6.4.0 ([#789](https://github.com/arthur-melo/abuseipdb-client/issues/789)) ([fea6412](https://github.com/arthur-melo/abuseipdb-client/commit/fea6412781ca24a3629898f5e57ad69e1b1e393f))
+* **deps-dev:** bump undici from 6.23.0 to 6.24.1 ([#790](https://github.com/arthur-melo/abuseipdb-client/issues/790)) ([92b0ea7](https://github.com/arthur-melo/abuseipdb-client/commit/92b0ea7447cde8c59f20f6515ec7398d1209e4e9))
+
 ## [2.0.78](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.77...v2.0.78) (2026-03-13)
 
 ### Chores
