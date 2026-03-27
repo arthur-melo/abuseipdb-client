@@ -1,3 +1,13 @@
+## [2.0.82](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.81...v2.0.82) (2026-03-27)
+
+### Chores
+
+* **deps-dev:** bump eslint-plugin-jest from 29.15.0 to 29.15.1 ([#801](https://github.com/arthur-melo/abuseipdb-client/issues/801)) ([d3b8d74](https://github.com/arthur-melo/abuseipdb-client/commit/d3b8d7479adaf222ec7f098f73c8b26c5aa77310))
+* **deps-dev:** bump handlebars from 4.7.8 to 4.7.9 ([#804](https://github.com/arthur-melo/abuseipdb-client/issues/804)) ([c3fd1e0](https://github.com/arthur-melo/abuseipdb-client/commit/c3fd1e027d45a54d59dff9bfb962278dbb6ec158))
+* **deps-dev:** bump rollup from 4.59.0 to 4.60.0 ([#802](https://github.com/arthur-melo/abuseipdb-client/issues/802)) ([35b19bb](https://github.com/arthur-melo/abuseipdb-client/commit/35b19bbad04fee2a0486ddc684a50683cda9b6df))
+* **deps-dev:** bump rollup-plugin-dts from 6.4.0 to 6.4.1 ([#800](https://github.com/arthur-melo/abuseipdb-client/issues/800)) ([022dbfb](https://github.com/arthur-melo/abuseipdb-client/commit/022dbfb95199683805ddb2537f36e3ec64c3b538))
+* **deps-dev:** bump typedoc from 0.28.17 to 0.28.18 ([#799](https://github.com/arthur-melo/abuseipdb-client/issues/799)) ([96a89be](https://github.com/arthur-melo/abuseipdb-client/commit/96a89be188861ce7cbe48c546291c268c1daf6d5))
+
 ## [2.0.81](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.80...v2.0.81) (2026-03-25)
 
 ### Chores
