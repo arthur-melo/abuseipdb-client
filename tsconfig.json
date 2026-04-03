@@ -1,11 +1,14 @@
 {
   "include": ["./lib/**/*"],
   "compilerOptions": {
+    "types": ["node"],
+    "rootDir": ".",
     "outDir": "dist",
     "target": "ESNext",
-    "module": "ESNext",
+    "module": "esnext",
     "lib": ["ESNext"],
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
+    "ignoreDeprecations": "6.0",
     "declaration": false,
     "esModuleInterop": true,
     "isolatedModules": true,
