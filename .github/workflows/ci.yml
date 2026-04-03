@@ -15,7 +15,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [lts/Iron]
+        node-version: [lts/Krypton]
 
     steps:
       - name: Checkout repo
