@@ -28,8 +28,7 @@ export interface ClientResponse<T extends APIResponse> {
  * @group Client Wrapper
  */
 export interface ClientHeaders
-  extends ClientAPIRateLimitHTTPHeaders,
-    ClientFetchResponseHeaders {}
+  extends ClientAPIRateLimitHTTPHeaders, ClientFetchResponseHeaders {}
 
 /**
  * IPDB's API rate-limit HTTP headers.
@@ -90,7 +89,7 @@ export interface APICheckEndpointResponse {
     totalReports: number;
     numDistinctUsers: number;
     lastReportedAt: string; // ISO Date
-    reports: Array<ReportsEntity>;
+    reports: Array<ReportsCheckEntity>;
   };
 }
 
@@ -238,6 +237,18 @@ export interface ReportsEntity {
   reporterId: number;
   reporterCountryCode: string;
   reporterCountryName: string;
+}
+
+/**
+ * @group AbuseIPDB API Response
+ */
+export interface ReportsCheckEntity {
+  reportedAt: string; // ISO Date
+  comment: string;
+  categories: NonEmptyArr<ReportCategory>;
+  reporterId: number;
+  fromIpCountryName: string;
+  fromIpCountryCode: string;
 }
 
 /**
