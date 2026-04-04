@@ -1,3 +1,12 @@
+## [2.0.85](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.84...v2.0.85) (2026-04-04)
+
+### Chores
+
+* **deps-dev:** bump dotenv from 17.3.1 to 17.4.0 ([#812](https://github.com/arthur-melo/abuseipdb-client/issues/812)) ([4bc42e7](https://github.com/arthur-melo/abuseipdb-client/commit/4bc42e7975232fb8a7878a131f80df930d96c7e9))
+* **deps-dev:** bump lodash-es from 4.17.23 to 4.18.1 ([#813](https://github.com/arthur-melo/abuseipdb-client/issues/813)) ([800ad3f](https://github.com/arthur-melo/abuseipdb-client/commit/800ad3f4c5a1207390bfc41befecaee5983a8b38))
+* **deps-dev:** bump ts-jest from 29.4.6 to 29.4.9 ([#811](https://github.com/arthur-melo/abuseipdb-client/issues/811)) ([dc1ec71](https://github.com/arthur-melo/abuseipdb-client/commit/dc1ec71e5044142741c491597714bb75eefddbc5))
+* **node-24:** bumped minimum node version ([#815](https://github.com/arthur-melo/abuseipdb-client/issues/815)) ([356090d](https://github.com/arthur-melo/abuseipdb-client/commit/356090d2c59f5805a77856736446b2bf54ed4990))
+
 ## [2.0.84](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.83...v2.0.84) (2026-04-02)
 
 ### Chores
