@@ -1,3 +1,9 @@
+## [2.0.88](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.87...v2.0.88) (2026-04-15)
+
+### Chores
+
+* **deps-dev:** bump typedoc from 0.28.18 to 0.28.19 ([#825](https://github.com/arthur-melo/abuseipdb-client/issues/825)) ([ce5870f](https://github.com/arthur-melo/abuseipdb-client/commit/ce5870f8b4d221e4dac7ab72c4120ab607f84663))
+
 ## [2.0.87](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.86...v2.0.87) (2026-04-14)
 
 ### Chores
