@@ -1,3 +1,9 @@
+## [2.0.89](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.88...v2.0.89) (2026-04-17)
+
+### Chores
+
+* **deps-dev:** bump prettier from 3.8.2 to 3.8.3 ([#826](https://github.com/arthur-melo/abuseipdb-client/issues/826)) ([978a0d2](https://github.com/arthur-melo/abuseipdb-client/commit/978a0d2ed4ca0ef1e4083f3efeecd89c30d7fa0c))
+
 ## [2.0.88](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.87...v2.0.88) (2026-04-15)
 
 ### Chores
