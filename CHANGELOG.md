@@ -1,3 +1,9 @@
+## [2.0.93](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.92...v2.0.93) (2026-05-01)
+
+### Chores
+
+* **deps:** bump zod from 4.3.6 to 4.4.1 ([#834](https://github.com/arthur-melo/abuseipdb-client/issues/834)) ([34fedd4](https://github.com/arthur-melo/abuseipdb-client/commit/34fedd482084bdc3773b7ea97fd8d4f405204544))
+
 ## [2.0.92](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.91...v2.0.92) (2026-04-30)
 
 ### Chores
