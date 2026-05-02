@@ -1,3 +1,10 @@
+## [2.0.94](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.93...v2.0.94) (2026-05-02)
+
+### Chores
+
+* **deps-dev:** bump eslint from 10.2.1 to 10.3.0 ([#836](https://github.com/arthur-melo/abuseipdb-client/issues/836)) ([d36aefc](https://github.com/arthur-melo/abuseipdb-client/commit/d36aefc6e8e393ca5474b4be8bf3305bed62061d))
+* **deps:** bump zod from 4.4.1 to 4.4.2 ([#835](https://github.com/arthur-melo/abuseipdb-client/issues/835)) ([62fa1ae](https://github.com/arthur-melo/abuseipdb-client/commit/62fa1ae32d526d3221f08bc4a048fbf936b1d233))
+
 ## [2.0.93](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.92...v2.0.93) (2026-05-01)
 
 ### Chores
