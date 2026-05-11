@@ -1,3 +1,14 @@
+## [2.0.95](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.94...v2.0.95) (2026-05-11)
+
+### Chores
+
+* **deps-dev:** bump @typescript-eslint/eslint-plugin ([#839](https://github.com/arthur-melo/abuseipdb-client/issues/839)) ([146eb12](https://github.com/arthur-melo/abuseipdb-client/commit/146eb12408397807444c1a81b060c0d8c5e2ae79))
+* **deps-dev:** bump @typescript-eslint/parser from 8.59.1 to 8.59.2 ([#838](https://github.com/arthur-melo/abuseipdb-client/issues/838)) ([cb4ecd0](https://github.com/arthur-melo/abuseipdb-client/commit/cb4ecd0e1f7f122a8971df4376c3f5980c4a5b3c))
+* **deps-dev:** bump fast-uri from 3.0.6 to 3.1.2 ([#842](https://github.com/arthur-melo/abuseipdb-client/issues/842)) ([b0144b7](https://github.com/arthur-melo/abuseipdb-client/commit/b0144b74be4632ec54bcfd7ae38c9560af3f6e2f))
+* **deps-dev:** bump lint-staged from 16.4.0 to 17.0.2 ([#841](https://github.com/arthur-melo/abuseipdb-client/issues/841)) ([7e97676](https://github.com/arthur-melo/abuseipdb-client/commit/7e97676e8d093e7c31f33767851f53436b800a4e))
+* **deps-dev:** bump rollup from 4.60.2 to 4.60.3 ([#840](https://github.com/arthur-melo/abuseipdb-client/issues/840)) ([97d6833](https://github.com/arthur-melo/abuseipdb-client/commit/97d6833a9a52032bbcf8e509e032bf9c3abc2582))
+* **deps:** bump zod from 4.4.2 to 4.4.3 ([#837](https://github.com/arthur-melo/abuseipdb-client/issues/837)) ([288c679](https://github.com/arthur-melo/abuseipdb-client/commit/288c679e261fdac2d7b0b529392599bee8672b66))
+
 ## [2.0.94](https://github.com/arthur-melo/abuseipdb-client/compare/v2.0.93...v2.0.94) (2026-05-02)
 
 ### Chores
