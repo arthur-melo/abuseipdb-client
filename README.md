@@ -1,3 +1,5 @@
+
+
 <br>
 
 <p align="center">
@@ -92,7 +94,7 @@ The `headers` structure contains the [AbuseIPDB HTTP headers](https://docs.abuse
 ```typescript
 headers: {
   url: string;
-  status: string;
+  status: number;
   statusText: string;
   'x-ratelimit-limit': string;
   'x-ratelimit-remaining': string;
